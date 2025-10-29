@@ -1,0 +1,42 @@
+{
+  "excludedTags": [],
+  "excludedFolders": [
+    "Templates",
+    "Scripts",
+    "00 Logs"
+  ],
+  "excludedNameContains": [],
+  "excludedExtensions": [],
+  "outputFormat": "- [[link]]",
+  "separateOutputFormats": false,
+  "createdFormat": "- [[link]]",
+  "modifiedFormat": "- [[link]]",
+  "deletedFormat": "- [[path]]",
+  "timeFormat": "h:mm A",
+  "autoEmbedAttachments": false,
+  "autoCreateLogNote": false,
+  "logNoteType": "daily",
+  "writeInterval": 0,
+  "combineCreatedAndModified": false,
+  "autoRemoveDividers": true,
+  "autoCreateCreatedDivider": false,
+  "autoCreateModifiedDivider": false,
+  "autoCreateDeletedDivider": false,
+  "sortCreated": "none",
+  "sortModified": "none",
+  "sortDeleted": "none",
+  "verboseModeEnabled": false,
+  "lastTrackedDate": "2025-10-29",
+  "trackedFiles": [
+    {
+      "path": "06 Resources/Manga Formatting.md",
+      "matchesCriteria": true,
+      "supposedList": "created"
+    },
+    {
+      "path": "06 Resources/Writing/Poems/Draft/sleep for the night.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    }
+  ]
+}

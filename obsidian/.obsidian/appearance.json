@@ -1,0 +1,15 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#c482bb",
+  "cssTheme": "Tokyo Night",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "textFontFamily": "Hack,Arial",
+  "interfaceFontFamily": "Hack",
+  "showViewHeader": true,
+  "showRibbon": false,
+  "monospaceFontFamily": "Hack",
+  "enabledCssSnippets": [
+    "editor"
+  ]
+}

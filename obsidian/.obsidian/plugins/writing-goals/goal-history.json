@@ -1,0 +1,864 @@
+{
+  "04 Projects/Create/on_read": [
+    {
+      "dailyGoal": 500,
+      "goal": 10000,
+      "startCount": 52,
+      "endCount": 52,
+      "date": "Tue Jun 17 2025 00:00:00 GMT-0400"
+    }
+  ],
+  "04 Projects/Create/on_read/script": [
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 0,
+      "endCount": 527,
+      "date": "Tue Jun 17 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Wed Jun 18 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Thu Jun 19 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sun Jun 22 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Mon Jun 23 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Tue Jun 24 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Wed Jun 25 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Thu Jun 26 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Fri Jun 27 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Jun 28 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sun Jun 29 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Mon Jun 30 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Tue Jul 01 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Wed Jul 02 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Fri Jul 04 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Jul 05 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Jul 12 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sun Jul 13 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Mon Jul 14 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Tue Jul 15 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Jul 19 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sun Jul 20 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Mon Jul 21 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Jul 26 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sun Jul 27 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Mon Jul 28 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Tue Jul 29 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Wed Jul 30 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Thu Jul 31 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Aug 02 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sun Aug 03 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Mon Aug 04 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Wed Aug 06 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Thu Aug 07 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Aug 09 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Tue Aug 12 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Wed Aug 13 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Aug 16 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sun Aug 17 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Mon Aug 18 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Fri Aug 22 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Aug 23 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sun Aug 24 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Mon Aug 25 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Fri Aug 29 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Mon Sep 01 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Fri Sep 05 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Sep 13 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sun Sep 14 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Mon Sep 15 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Sep 20 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sun Sep 21 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Mon Sep 22 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Wed Sep 24 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Fri Sep 26 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Sep 27 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Fri Oct 03 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sat Oct 04 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 527,
+      "endCount": 527,
+      "date": "Sun Oct 05 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 5000,
+      "startCount": 0,
+      "endCount": 0,
+      "date": "Thu Oct 09 2025 00:00:00 GMT-0400"
+    }
+  ],
+  "04 Projects/Create/💌 Night school game/05 Writing": [
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Tue Jun 17 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Wed Jun 18 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Thu Jun 19 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sun Jun 22 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Mon Jun 23 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Tue Jun 24 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Wed Jun 25 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Thu Jun 26 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Fri Jun 27 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sat Jun 28 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sun Jun 29 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Mon Jun 30 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Tue Jul 01 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Wed Jul 02 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Fri Jul 04 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sat Jul 05 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sat Jul 12 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sun Jul 13 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Mon Jul 14 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Tue Jul 15 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sat Jul 19 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sun Jul 20 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Mon Jul 21 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sat Jul 26 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sun Jul 27 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Mon Jul 28 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Tue Jul 29 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Wed Jul 30 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Thu Jul 31 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sat Aug 02 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sun Aug 03 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Mon Aug 04 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Wed Aug 06 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Thu Aug 07 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sat Aug 09 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Tue Aug 12 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Wed Aug 13 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sat Aug 16 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sun Aug 17 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Mon Aug 18 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Fri Aug 22 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sat Aug 23 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sun Aug 24 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Mon Aug 25 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Fri Aug 29 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Mon Sep 01 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Fri Sep 05 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Sat Sep 13 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 535,
+      "date": "Sun Sep 14 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 535,
+      "endCount": 535,
+      "date": "Mon Sep 15 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 535,
+      "endCount": 535,
+      "date": "Sat Sep 20 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 535,
+      "endCount": 535,
+      "date": "Sun Sep 21 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 535,
+      "endCount": 535,
+      "date": "Mon Sep 22 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 535,
+      "endCount": 535,
+      "date": "Wed Sep 24 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 535,
+      "endCount": 535,
+      "date": "Fri Sep 26 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 535,
+      "endCount": 535,
+      "date": "Sat Sep 27 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 535,
+      "endCount": 535,
+      "date": "Fri Oct 03 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 535,
+      "endCount": 535,
+      "date": "Sat Oct 04 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 535,
+      "endCount": 535,
+      "date": "Sun Oct 05 2025 00:00:00 GMT-0400"
+    },
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 0,
+      "endCount": 0,
+      "date": "Thu Oct 09 2025 00:00:00 GMT-0400"
+    }
+  ],
+  "05 Areas/Writing/Harvest/00 Notes/05 Writing": [
+    {
+      "dailyGoal": 300,
+      "goal": 10000,
+      "startCount": 2,
+      "endCount": 2,
+      "date": "Thu Jun 26 2025 00:00:00 GMT-0400"
+    }
+  ]
+}

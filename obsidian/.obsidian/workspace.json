@@ -1,0 +1,491 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffaa5059548018ff",
+        "type": "tabs",
+        "dimension": 35.20616221114634,
+        "children": [
+          {
+            "id": "776e545df4425efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Active Projects/option one/About.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About"
+            }
+          },
+          {
+            "id": "e8d3572e160d093e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Resources/Rick/Together.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Together"
+            }
+          },
+          {
+            "id": "9ff58e090ce38d46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annie manual.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Annie manual"
+            }
+          },
+          {
+            "id": "d7575a7ddfaa510b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Active Projects/option one/About.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About"
+            }
+          },
+          {
+            "id": "4160ad6e035f1a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 Archive/Unfinished Thoughts/Thoughts/Story Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Story Ideas"
+            }
+          },
+          {
+            "id": "12b7d4a83b2f78bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Resources/Ideas/Stories/Story Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Story Ideas"
+            }
+          },
+          {
+            "id": "85575a10a8cd061f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 Archive/References and Tips/poems I like.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "poems I like"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1d5090c26a8a2e13",
+        "type": "tabs",
+        "dimension": 44.49478930675125,
+        "children": [
+          {
+            "id": "5f8e45e2a8bda9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Inbox/smart enough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "smart enough"
+            }
+          },
+          {
+            "id": "09bbf3313bcf6b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Active Projects/option one/story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "story"
+            }
+          },
+          {
+            "id": "908aeb20b0a5777c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Resources/Writing/Poems/Draft/sleep for the night.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sleep for the night"
+            }
+          }
+        ]
+      },
+      {
+        "id": "424af12178ef6ca0",
+        "type": "tabs",
+        "dimension": 20.2990484821024,
+        "children": [
+          {
+            "id": "35e7e6c9fda5f955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Resources/Writing/Poems/Complete/ash and dust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ash and dust"
+            }
+          },
+          {
+            "id": "9b55b40699760e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Resources/Writing/Poems/Draft/Deep Sea Dreams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deep Sea Dreams"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e75d8ca77439741f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e23a02b204e72d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fada666748a58e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0b66a062ceb6622e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rust",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "08d507778d9f92c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f084f7963f25c61c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "09ee63158a9c6f6a",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          },
+          {
+            "id": "afbde464a013939a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ee371838d4a30a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdbbeaee2d529456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f324e6553e3d9429",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e51c17a08b261a97",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "371fa2ea796d2b9b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "05 Areas/Writing/Card World"
+              },
+              "icon": "lucide-file",
+              "title": "Card World"
+            }
+          },
+          {
+            "id": "59fb58da1253e117",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 Resources/06 Areas/Writing/Poems/Complete/ash and dust.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ash and dust"
+            }
+          },
+          {
+            "id": "65b3d9ace8b392bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "613a77de93a12d76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c95353ec48045d61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Inbox/smart enough.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of smart enough"
+            }
+          },
+          {
+            "id": "9922efdd86c434d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "a635fc46b2aee4eb",
+            "type": "leaf",
+            "state": {
+              "type": "id-side-panel",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Notes by ID"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "keep-the-rhythm:Word Count Stats": false,
+      "note-id:Open side panel": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "5f8e45e2a8bda9bd",
+  "lastOpenFiles": [
+    "05 Active Projects/option one/story.md",
+    "06 Resources/Writing/Poems/Draft/sleep for the night.md",
+    "01 Inbox/smart enough.md",
+    "06 Resources/Manga Formatting.md",
+    "05 Active Projects/option one/About.md",
+    "06 Resources/Rick/Together.md",
+    "Annie manual.md",
+    "99 Archive/References and Tips/poems I like.md",
+    "99 Archive/Unfinished Thoughts/Thoughts/Story Ideas.md",
+    "06 Resources/Ideas/Stories/Story Ideas.md",
+    "06 Resources/06 Areas/Ideas/Stories/Story Ideas.md",
+    "06 Resources/06 Areas/Ideas/Stories",
+    "06 Resources/06 Areas/Ideas",
+    "06 Resources/06 Areas",
+    "01 Inbox/October 2025.md",
+    "06 Resources/Writing/Poems/Draft/close 2.md",
+    "06 Resources/Writing/Poems/Draft/try.md",
+    "06 Resources/Rick/Letters.md",
+    "06 Resources/Writing/Poems/Draft/Deep Sea Dreams.md",
+    "06 Resources/Rick/About.md",
+    "06 Resources/Writing/Grave of the Gods/Brainstorm.md",
+    "05 Active Projects/💌 The Lost Toys Club/V3 The Lost Toys Club/Outline.md",
+    "05 Active Projects/💌 The Lost Toys Club/V3 The Lost Toys Club/Scenes.md",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/Outline.md",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/Brainstorm.md",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/02 Plot and Structure/Writing Practice.md",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/03 Characters/Asher.md",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/Outline 2.md",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/05 Writing/Draft.md",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Factions and Cultures",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Technology and Tools",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Lore and History",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/02 Plot and Structure/Core Theme",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Locations",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Versions",
+    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Systems",
+    "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Untitled.canvas",
+    "06 Resources/Games/Framework.canvas",
+    "06 Resources/Writing/Yellow/Notes/Plot/Themes.canvas",
+    "06 Resources/Writing/Yellow/Notes/Characters/Relationships.canvas",
+    "05 Areas/Writing/Harvest/Untitled.canvas",
+    "05 Areas/Writing/Card World/Untitled.canvas",
+    "06 Resources/Habits and Human Behavior/Anterior_Tilt.jpg",
+    "06 Resources/Habits and Human Behavior/Stretches_Office.jpg",
+    "06 Resources/Habits and Human Behavior/Neck_Stretches.jpg",
+    "99 Archive/Images/Pasted image 20241121183837.png",
+    "99 Archive/Images/Pasted image 20241121183346.png",
+    "99 Archive/Images/Pasted image 20240811213444.png",
+    "99 Archive/Images/Pasted image 20250207213317.png",
+    "99 Archive/Images/Pasted image 20250311001230.png",
+    "99 Archive/Images/Pasted image 20240811213524.png",
+    "99 Archive/Images/Pasted image 20240811213349.png",
+    "05 Areas/Games/Framework.canvas",
+    "05 Areas/Writing/Yellow/Notes/Plot/Themes.canvas",
+    "05 Areas/Writing/Yellow/Notes/Characters/Relationships.canvas"
+  ]
+}

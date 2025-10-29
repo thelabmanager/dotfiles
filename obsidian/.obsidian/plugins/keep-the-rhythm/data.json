@@ -1,0 +1,6784 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": "500",
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 1000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#d397ba"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#6eabaf"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": [
+        {
+          "index": 0,
+          "option": "CURRENT_DAY",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 1,
+          "option": "CURRENT_WEEK",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 2,
+          "option": "LAST_MONTH",
+          "unit": "WORD",
+          "calc": "AVG"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [
+      "2025-06-12",
+      "2025-06-13",
+      "2025-06-15",
+      "2025-06-17",
+      "2025-06-26",
+      "2025-06-27",
+      "2025-06-29",
+      "2025-07-01",
+      "2025-07-20",
+      "2025-09-14",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-28"
+    ],
+    "dailyActivity": [
+      {
+        "date": "2025-06-09",
+        "filePath": "06 Resources/New PC.md",
+        "wordCountStart": 26,
+        "charCountStart": 201,
+        "changes": [
+          {
+            "timeKey": "23:30",
+            "w": 2,
+            "c": 35
+          }
+        ],
+        "id": 1
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 2
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "05 Areas/Writing/Poems/Draft/sand castle.md",
+        "wordCountStart": 201,
+        "charCountStart": 987,
+        "changes": [],
+        "id": 3
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "01 Inbox/temp poem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 4
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "01 Inbox/smart enough.md",
+        "wordCountStart": 18,
+        "charCountStart": 82,
+        "changes": [],
+        "id": 5
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "01 Inbox/nothingmore.md",
+        "wordCountStart": 45,
+        "charCountStart": 234,
+        "changes": [],
+        "id": 6
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "01 Inbox/testing main.md",
+        "wordCountStart": 166,
+        "charCountStart": 1020,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 7
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "01 Inbox/2025 Project Log.md",
+        "wordCountStart": 223,
+        "charCountStart": 1394,
+        "changes": [],
+        "id": 8
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "02 Zettelkasten/Index.md",
+        "wordCountStart": 5,
+        "charCountStart": 39,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": -5,
+            "c": -39
+          }
+        ],
+        "id": 9
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "02 Zettelkasten/01 Creative Log/01 Creative Log.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 10
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "02 Zettelkasten/02 Zettelkasten.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 11
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "01 Inbox/brainstorm more poems.md",
+        "wordCountStart": 354,
+        "charCountStart": 1633,
+        "changes": [],
+        "id": 12
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams.md",
+        "wordCountStart": 19,
+        "charCountStart": 92,
+        "changes": [],
+        "id": 13
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 14
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "05 Areas/Writing/Yellow/Screenplay/01.md",
+        "wordCountStart": 285,
+        "charCountStart": 1512,
+        "changes": [],
+        "id": 15
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Untitled 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 16
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams.md",
+        "wordCountStart": 19,
+        "charCountStart": 92,
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 25,
+            "c": 132
+          },
+          {
+            "timeKey": "22:45",
+            "w": 146,
+            "c": 730
+          },
+          {
+            "timeKey": "22:50",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "22:55",
+            "w": 63,
+            "c": 321
+          },
+          {
+            "timeKey": "23:00",
+            "w": 28,
+            "c": 138
+          },
+          {
+            "timeKey": "23:05",
+            "w": 47,
+            "c": 234
+          },
+          {
+            "timeKey": "23:10",
+            "w": 28,
+            "c": 127
+          },
+          {
+            "timeKey": "23:15",
+            "w": 14,
+            "c": 69
+          },
+          {
+            "timeKey": "23:20",
+            "w": 110,
+            "c": 571
+          },
+          {
+            "timeKey": "23:25",
+            "w": 234,
+            "c": 1173
+          }
+        ],
+        "id": 17
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Untitled (1).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "01 Inbox/Nature of Storytelling.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 6,
+            "c": 36
+          },
+          {
+            "timeKey": "21:15",
+            "w": 30,
+            "c": 159
+          },
+          {
+            "timeKey": "21:50",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "21:55",
+            "w": 64,
+            "c": 353
+          },
+          {
+            "timeKey": "22:10",
+            "w": 47,
+            "c": 275
+          },
+          {
+            "timeKey": "22:15",
+            "w": 277,
+            "c": 1535
+          },
+          {
+            "timeKey": "22:20",
+            "w": 160,
+            "c": 836
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "04 Projects/Create/💌 Night school game/00 Notes/Brainstorm.md",
+        "wordCountStart": 4203,
+        "charCountStart": 23733,
+        "changes": [],
+        "id": 20
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "04 Projects/Create/💌 Night school game/00 Notes/Games.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 34,
+            "c": 181
+          },
+          {
+            "timeKey": "22:25",
+            "w": 37,
+            "c": 226
+          }
+        ],
+        "id": 21
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "99 Archive/99 Archive.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 22
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "05 Areas/Writing/Yellow/Scenes/01 Prologue.md",
+        "wordCountStart": 314,
+        "charCountStart": 1804,
+        "changes": [],
+        "id": 23
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "05 Areas/Writing/Yellow/Scenes/02 last client.md",
+        "wordCountStart": 1358,
+        "charCountStart": 6988,
+        "changes": [],
+        "id": 24
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "05 Areas/Writing/The Midnight Train/Scenes/01 Intro.md",
+        "wordCountStart": 396,
+        "charCountStart": 2403,
+        "changes": [],
+        "id": 25
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "99 Archive/Unfinished Thoughts/Thoughts/Story Ideas.md",
+        "wordCountStart": 807,
+        "charCountStart": 4288,
+        "changes": [],
+        "id": 26
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "05 Areas/Ideas/Stories/Card World.md",
+        "wordCountStart": 16,
+        "charCountStart": 71,
+        "changes": [],
+        "id": 27
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "05 Areas/Ideas/Stories/Characters.md",
+        "wordCountStart": 102,
+        "charCountStart": 610,
+        "changes": [],
+        "id": 28
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "05 Areas/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 345,
+        "charCountStart": 2002,
+        "changes": [],
+        "id": 29
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "05 Areas/Writing/Card World/Scenes/00 Intro.md",
+        "wordCountStart": 23,
+        "charCountStart": 178,
+        "changes": [],
+        "id": 30
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "05 Areas/Writing/Card World/Scenes/01.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 95,
+            "c": 489
+          },
+          {
+            "timeKey": "00:05",
+            "w": 171,
+            "c": 906
+          },
+          {
+            "timeKey": "00:10",
+            "w": 127,
+            "c": 681
+          },
+          {
+            "timeKey": "00:15",
+            "w": 149,
+            "c": 747
+          },
+          {
+            "timeKey": "00:20",
+            "w": 60,
+            "c": 290
+          },
+          {
+            "timeKey": "23:30",
+            "w": 32,
+            "c": 155
+          },
+          {
+            "timeKey": "23:35",
+            "w": 50,
+            "c": 261
+          },
+          {
+            "timeKey": "23:40",
+            "w": 34,
+            "c": 168
+          },
+          {
+            "timeKey": "23:45",
+            "w": 108,
+            "c": 579
+          },
+          {
+            "timeKey": "23:50",
+            "w": 145,
+            "c": 731
+          },
+          {
+            "timeKey": "23:55",
+            "w": 153,
+            "c": 776
+          }
+        ],
+        "id": 31
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "05 Areas/Writing/Card World/Brainstorm.md",
+        "wordCountStart": 54,
+        "charCountStart": 270,
+        "changes": [
+          {
+            "timeKey": "23:35",
+            "w": 31,
+            "c": 149
+          }
+        ],
+        "id": 32
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "04 Projects/Create/💌 Night school game/Game/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:40",
+            "w": 4,
+            "c": 23
+          }
+        ],
+        "id": 33
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Templates/ZK Reference Notes.md",
+        "wordCountStart": 110,
+        "charCountStart": 965,
+        "changes": [],
+        "id": 34
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "05 Areas/Writing/Card World/Scenes/03.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:20",
+            "w": 51,
+            "c": 273
+          },
+          {
+            "timeKey": "00:25",
+            "w": 138,
+            "c": 701
+          },
+          {
+            "timeKey": "00:30",
+            "w": 112,
+            "c": 538
+          }
+        ],
+        "id": 35
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "05 Areas/Writing/Card World/Brainstorm.md",
+        "wordCountStart": 85,
+        "charCountStart": 419,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "05 Areas/Writing/Card World/Outline.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 5,
+            "c": 27
+          },
+          {
+            "timeKey": "21:20",
+            "w": 6,
+            "c": 37
+          }
+        ],
+        "id": 37
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "05 Areas/Writing/Card World/Untitled.canvas",
+        "wordCountStart": 0,
+        "charCountStart": 2,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 39
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "05 Areas/Writing/Card World/Characters/Overview.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 14,
+            "c": 108
+          },
+          {
+            "timeKey": "21:20",
+            "w": 387,
+            "c": 4498
+          },
+          {
+            "timeKey": "21:25",
+            "w": 0,
+            "c": 5
+          }
+        ],
+        "id": 40
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "05 Areas/Writing/Card World/Scenes/01.md",
+        "wordCountStart": 1124,
+        "charCountStart": 5783,
+        "changes": [],
+        "id": 41
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "05 Areas/Writing/Card World/Scenes/00 Intro.md",
+        "wordCountStart": 23,
+        "charCountStart": 178,
+        "changes": [],
+        "id": 42
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "04 Projects/Create/💌 Night school game/03 Characters/Asher.md",
+        "wordCountStart": 503,
+        "charCountStart": 5313,
+        "changes": [],
+        "id": 43
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "New Templates/Main Note.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 44
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "04 Projects/Create/💌 Night school game/03 Characters/Asher.md",
+        "wordCountStart": 503,
+        "charCountStart": 5313,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": -2,
+            "c": -17
+          }
+        ],
+        "id": 45
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "New Templates/Reference Note.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 46
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 47
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Untitled 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 48
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "{{zid}}.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": -2,
+            "c": -21
+          }
+        ],
+        "id": 49
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "00 Logs/00 Daily Logs/2025-04-13.md",
+        "wordCountStart": 265,
+        "charCountStart": 1719,
+        "changes": [
+          {
+            "timeKey": "11:50",
+            "w": 8,
+            "c": 68
+          }
+        ],
+        "id": 50
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "00 Logs/00 Daily Logs/2025-04-20.md",
+        "wordCountStart": 265,
+        "charCountStart": 1542,
+        "changes": [],
+        "id": 51
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Home.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 2,
+            "c": 9
+          }
+        ],
+        "id": 52
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "05 Areas/Writing/Card World/Characters/Overview.md",
+        "wordCountStart": 401,
+        "charCountStart": 4611,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 6,
+            "c": 47
+          }
+        ],
+        "id": 53
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Templates/ZK Daily Log.md",
+        "wordCountStart": 200,
+        "charCountStart": 1200,
+        "changes": [],
+        "id": 54
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "New Templates/New Templates.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 55
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "New Templates/Main Note.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 82,
+            "c": 468
+          },
+          {
+            "timeKey": "12:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:35",
+            "w": -82,
+            "c": -468
+          }
+        ],
+        "id": 56
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "New Templates/Daily Log.md",
+        "wordCountStart": 200,
+        "charCountStart": 1200,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -179,
+            "c": -977
+          },
+          {
+            "timeKey": "12:35",
+            "w": 36,
+            "c": 210
+          }
+        ],
+        "id": 57
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Templates/ZK Main Notes.md",
+        "wordCountStart": 81,
+        "charCountStart": 462,
+        "changes": [],
+        "id": 58
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "03 Main Notes/1.1 Writing is a method of processing our thoughts.md",
+        "wordCountStart": 308,
+        "charCountStart": 1749,
+        "changes": [],
+        "id": 59
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Templates/ZK Reference Notes.md",
+        "wordCountStart": 110,
+        "charCountStart": 965,
+        "changes": [],
+        "id": 60
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "New Templates/Weekly Log.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 14,
+            "c": 83
+          }
+        ],
+        "id": 61
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "New Templates/Idea.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 4,
+            "c": 38
+          },
+          {
+            "timeKey": "12:45",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "12:50",
+            "w": 44,
+            "c": 387
+          },
+          {
+            "timeKey": "13:05",
+            "w": -25,
+            "c": -191
+          }
+        ],
+        "id": 62
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Templates/Idea Template.md",
+        "wordCountStart": 50,
+        "charCountStart": 443,
+        "changes": [],
+        "id": 63
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "05 Areas/Writing/Card World/Outline.md",
+        "wordCountStart": 11,
+        "charCountStart": 64,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 7,
+            "c": 46
+          }
+        ],
+        "id": 64
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "05 Areas/Writing/Card World/Scenes/01.md",
+        "wordCountStart": 1124,
+        "charCountStart": 5783,
+        "changes": [],
+        "id": 65
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "05 Areas/Writing/Card World/Scenes/03.md",
+        "wordCountStart": 301,
+        "charCountStart": 1512,
+        "changes": [],
+        "id": 66
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "05 Areas/Writing/Card World/Characters/Characters.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 67
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "New Templates/Project Idea.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": 28,
+            "c": 198
+          },
+          {
+            "timeKey": "13:10",
+            "w": 21,
+            "c": 186
+          }
+        ],
+        "id": 68
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Templates/Project File.md",
+        "wordCountStart": 30,
+        "charCountStart": 248,
+        "changes": [],
+        "id": 69
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Templates/Project About.md",
+        "wordCountStart": 134,
+        "charCountStart": 1024,
+        "changes": [],
+        "id": 70
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "New Templates/Design Doc.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 23,
+            "c": 239
+          }
+        ],
+        "id": 71
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Templates/Product Design.md",
+        "wordCountStart": 51,
+        "charCountStart": 465,
+        "changes": [],
+        "id": 72
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Templates/Design Doc Template.md",
+        "wordCountStart": 83,
+        "charCountStart": 862,
+        "changes": [],
+        "id": 73
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "New Templates/Game Design Doc.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:15",
+            "w": 91,
+            "c": 864
+          }
+        ],
+        "id": 74
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Templates/Game Design Template.md",
+        "wordCountStart": 110,
+        "charCountStart": 1075,
+        "changes": [],
+        "id": 75
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "05 Areas/Ideas/Stories/Characters.md",
+        "wordCountStart": 102,
+        "charCountStart": 610,
+        "changes": [],
+        "id": 76
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "05 Areas/Ideas/Stories/Card World.md",
+        "wordCountStart": 16,
+        "charCountStart": 71,
+        "changes": [],
+        "id": 77
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "05 Areas/Writing/Card World/Brainstorm.md",
+        "wordCountStart": 85,
+        "charCountStart": 419,
+        "changes": [],
+        "id": 78
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "04 Projects/Connect/✉️ 2025 Family Vacation - PGA Destination/About.md",
+        "wordCountStart": 139,
+        "charCountStart": 884,
+        "changes": [],
+        "id": 79
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "04 Projects/💌 2025-04 Monthly print and sticker design/About.md",
+        "wordCountStart": 82,
+        "charCountStart": 516,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": -82,
+            "c": -516
+          }
+        ],
+        "id": 80
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "10 Sleeping/Projects/Grow/📨 Write letters for Academy teachers/About.md",
+        "wordCountStart": 112,
+        "charCountStart": 689,
+        "changes": [],
+        "id": 81
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "10 Sleeping/Projects/Grow/📨 Go through Elementary Algebra/About.md",
+        "wordCountStart": 95,
+        "charCountStart": 642,
+        "changes": [],
+        "id": 82
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "04 Projects/📨 Go through Elementary Algebra/📨 Go through Elementary Algebra.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 83
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "04 Projects/Connect/Personal vacation/About.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 5,
+            "c": 30
+          }
+        ],
+        "id": 84
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "06 Resources/Bucket Lists/Experiences.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 18,
+            "c": 80
+          },
+          {
+            "timeKey": "13:25",
+            "w": -10,
+            "c": -42
+          }
+        ],
+        "id": 85
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "06 Resources/Bucket Lists/Places.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 8,
+            "c": 31
+          }
+        ],
+        "id": 86
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Apartment Stuff.md",
+        "wordCountStart": 10,
+        "charCountStart": 148,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": -10,
+            "c": -148
+          }
+        ],
+        "id": 87
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Changelog.md",
+        "wordCountStart": 172,
+        "charCountStart": 921,
+        "changes": [],
+        "id": 88
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Self Pep Talk.md",
+        "wordCountStart": 394,
+        "charCountStart": 1796,
+        "changes": [],
+        "id": 89
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Vault.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 90
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "04 Projects/Create/game engine/00 About.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 26,
+            "c": 162
+          },
+          {
+            "timeKey": "17:30",
+            "w": 26,
+            "c": 194
+          },
+          {
+            "timeKey": "17:35",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "18:40",
+            "w": 29,
+            "c": 166
+          },
+          {
+            "timeKey": "18:45",
+            "w": 32,
+            "c": 255
+          },
+          {
+            "timeKey": "18:50",
+            "w": 20,
+            "c": 158
+          },
+          {
+            "timeKey": "18:55",
+            "w": 28,
+            "c": 261
+          },
+          {
+            "timeKey": "19:00",
+            "w": 6,
+            "c": 72
+          },
+          {
+            "timeKey": "20:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:50",
+            "w": 28,
+            "c": 256
+          },
+          {
+            "timeKey": "21:55",
+            "w": 8,
+            "c": 83
+          },
+          {
+            "timeKey": "22:15",
+            "w": 8,
+            "c": 68
+          },
+          {
+            "timeKey": "22:30",
+            "w": 16,
+            "c": 143
+          },
+          {
+            "timeKey": "22:50",
+            "w": 17,
+            "c": 122
+          },
+          {
+            "timeKey": "22:55",
+            "w": 16,
+            "c": 115
+          }
+        ],
+        "id": 91
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "04 Projects/00 Exist/Apartment.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 92
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "00 Logs/00 Daily Logs/2025-06-14.md",
+        "wordCountStart": 291,
+        "charCountStart": 1863,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": -291,
+            "c": -1863
+          }
+        ],
+        "id": 93
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Templates/Daily Log.md",
+        "wordCountStart": 151,
+        "charCountStart": 1474,
+        "changes": [],
+        "id": 94
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "05 Areas/Writing/Card World/Scenes/01.md",
+        "wordCountStart": 1124,
+        "charCountStart": 5783,
+        "changes": [
+          {
+            "timeKey": "11:20",
+            "w": 20,
+            "c": 80
+          }
+        ],
+        "id": 95
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "05 Areas/Writing/Card World/Scenes/03.md",
+        "wordCountStart": 301,
+        "charCountStart": 1512,
+        "changes": [],
+        "id": 96
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/💌 Night school game/Hotel/Outline.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 23,
+            "c": 133
+          },
+          {
+            "timeKey": "18:40",
+            "w": 121,
+            "c": 640
+          }
+        ],
+        "id": 97
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/💌 Night school game/00 Notes/Brainstorm.md",
+        "wordCountStart": 4203,
+        "charCountStart": 23733,
+        "changes": [],
+        "id": 98
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/💌 Night school game/Emotional Outline.md",
+        "wordCountStart": 29,
+        "charCountStart": 169,
+        "changes": [],
+        "id": 99
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/💌 Night school game/Outline.md",
+        "wordCountStart": 6229,
+        "charCountStart": 31735,
+        "changes": [],
+        "id": 100
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "05 Areas/Writing/Card World/Characters/Overview.md",
+        "wordCountStart": 407,
+        "charCountStart": 4658,
+        "changes": [],
+        "id": 101
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/game engine/00 About.md",
+        "wordCountStart": 260,
+        "charCountStart": 2057,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 8,
+            "c": 65
+          },
+          {
+            "timeKey": "21:50",
+            "w": 6,
+            "c": 51
+          },
+          {
+            "timeKey": "22:45",
+            "w": 5,
+            "c": 35
+          }
+        ],
+        "id": 102
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/💌 Night school game/05 Writing/Draft.md",
+        "wordCountStart": 26,
+        "charCountStart": 142,
+        "changes": [],
+        "id": 103
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/💌 Night school game/Week-by-Week Outline.md",
+        "wordCountStart": 13,
+        "charCountStart": 97,
+        "changes": [
+          {
+            "timeKey": "11:25",
+            "w": 16,
+            "c": 65
+          }
+        ],
+        "id": 104
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/💌 Night school game/Untitled 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 105
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/💌 Night school game/Untitled 2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 106
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/💌 Night school game/04 World and Systems/World Overview.md",
+        "wordCountStart": 96,
+        "charCountStart": 714,
+        "changes": [],
+        "id": 107
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/💌 Night school game/02 Plot and Structure/Story Overview.md",
+        "wordCountStart": 87,
+        "charCountStart": 590,
+        "changes": [],
+        "id": 108
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "05 Areas/Writing/Card World/Outline.md",
+        "wordCountStart": 18,
+        "charCountStart": 110,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 42,
+            "c": 234
+          },
+          {
+            "timeKey": "18:45",
+            "w": 5,
+            "c": 19
+          }
+        ],
+        "id": 109
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "05 Areas/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 345,
+        "charCountStart": 2002,
+        "changes": [],
+        "id": 110
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "99 Archive/Unfinished Thoughts/Thoughts/Story Ideas.md",
+        "wordCountStart": 807,
+        "charCountStart": 4288,
+        "changes": [],
+        "id": 111
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/2.1e A zettelkasten is a practice.md",
+        "wordCountStart": 262,
+        "charCountStart": 1503,
+        "changes": [],
+        "id": 112
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/4.1 Storytelling can take on many forms.md",
+        "wordCountStart": 262,
+        "charCountStart": 1503,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": -172,
+            "c": -912
+          },
+          {
+            "timeKey": "21:55",
+            "w": 10,
+            "c": -15
+          },
+          {
+            "timeKey": "22:00",
+            "w": 16,
+            "c": 69
+          }
+        ],
+        "id": 113
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/1.1b1 Readers interpret writing differently.md",
+        "wordCountStart": 231,
+        "charCountStart": 1316,
+        "changes": [],
+        "id": 114
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/4.1a The medium of a story is just as important as the story itself.md",
+        "wordCountStart": 101,
+        "charCountStart": 554,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 0,
+            "c": 6
+          },
+          {
+            "timeKey": "22:00",
+            "w": 24,
+            "c": 98
+          },
+          {
+            "timeKey": "22:05",
+            "w": 77,
+            "c": 481
+          },
+          {
+            "timeKey": "22:10",
+            "w": 70,
+            "c": 376
+          }
+        ],
+        "id": 115
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "Templates/ZK Main Notes.md",
+        "wordCountStart": 81,
+        "charCountStart": 462,
+        "changes": [],
+        "id": 116
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/4.1a1 Books are well-suited for stories with thought-driven narratives.md",
+        "wordCountStart": 91,
+        "charCountStart": 563,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 57,
+            "c": 348
+          },
+          {
+            "timeKey": "22:20",
+            "w": 114,
+            "c": 616
+          },
+          {
+            "timeKey": "22:25",
+            "w": 82,
+            "c": 472
+          }
+        ],
+        "id": 117
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "01 Inbox/June Inbox.md",
+        "wordCountStart": 101,
+        "charCountStart": 579,
+        "changes": [],
+        "id": 118
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "01 Inbox/2025-06-08.md",
+        "wordCountStart": 1578,
+        "charCountStart": 7927,
+        "changes": [],
+        "id": 119
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/4.1a2 Movies are well-suited for stories with strong and clear emotional vision.md",
+        "wordCountStart": 97,
+        "charCountStart": 581,
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": 80,
+            "c": 448
+          }
+        ],
+        "id": 120
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/4.1a3 Games are well-suited for stories with rich world-building.md",
+        "wordCountStart": 91,
+        "charCountStart": 551,
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": 103,
+            "c": 552
+          }
+        ],
+        "id": 121
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/4.1a4 Characters are what make stories memorable.md",
+        "wordCountStart": 87,
+        "charCountStart": 519,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 45,
+            "c": 303
+          },
+          {
+            "timeKey": "22:35",
+            "w": 42,
+            "c": 218
+          }
+        ],
+        "id": 122
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/4.1a4a There is no such thing as plot-driven, just badly written.md",
+        "wordCountStart": 95,
+        "charCountStart": 550,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 54,
+            "c": 325
+          },
+          {
+            "timeKey": "22:35",
+            "w": 28,
+            "c": 168
+          }
+        ],
+        "id": 123
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/4.1a4b Humans crave memorable characters.md",
+        "wordCountStart": 83,
+        "charCountStart": 502,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 18,
+            "c": 121
+          }
+        ],
+        "id": 124
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/5.1 The nature of experimentation is risky.md",
+        "wordCountStart": 86,
+        "charCountStart": 509,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 43,
+            "c": 266
+          }
+        ],
+        "id": 125
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/5.1a p-values are about the odds of a weird case happening.md",
+        "wordCountStart": 95,
+        "charCountStart": 540,
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 26,
+            "c": 147
+          }
+        ],
+        "id": 126
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 Main Notes/5.1a1 Significance levels are about how sure we are about a thing.md",
+        "wordCountStart": 97,
+        "charCountStart": 553,
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 10,
+            "c": 54
+          }
+        ],
+        "id": 127
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 Projects/Create/💌 Night school game/About.md",
+        "wordCountStart": 81,
+        "charCountStart": 521,
+        "changes": [],
+        "id": 128
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/💌 Night school game/00 Notes/Brainstorm.md",
+        "wordCountStart": 4203,
+        "charCountStart": 23733,
+        "changes": [],
+        "id": 129
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 Areas/Writing/Card World/Outline.md",
+        "wordCountStart": 65,
+        "charCountStart": 363,
+        "changes": [],
+        "id": 130
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/💌 Night school game/Outline.md",
+        "wordCountStart": 6229,
+        "charCountStart": 31735,
+        "changes": [],
+        "id": 131
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/on_read/on_read.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 132
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/on_read/00 Notes/About.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 52,
+            "c": 279
+          },
+          {
+            "timeKey": "21:45",
+            "w": 45,
+            "c": 298
+          },
+          {
+            "timeKey": "21:50",
+            "w": 45,
+            "c": 217
+          },
+          {
+            "timeKey": "23:15",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 133
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/on_read/script/00 Begin.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:20",
+            "w": 113,
+            "c": 561
+          },
+          {
+            "timeKey": "23:25",
+            "w": 188,
+            "c": 950
+          },
+          {
+            "timeKey": "23:30",
+            "w": 253,
+            "c": 1250
+          }
+        ],
+        "id": 134
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/on_read/00 Notes/Outline.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 5,
+            "c": 23
+          }
+        ],
+        "id": 135
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/💌 Night school game/Emotional Outline.md",
+        "wordCountStart": 29,
+        "charCountStart": 169,
+        "changes": [],
+        "id": 136
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 Areas/Writing/Card World/Scenes/03.md",
+        "wordCountStart": 301,
+        "charCountStart": 1512,
+        "changes": [],
+        "id": 137
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 Areas/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 345,
+        "charCountStart": 2002,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 1,
+            "c": 10
+          },
+          {
+            "timeKey": "21:50",
+            "w": 39,
+            "c": 241
+          }
+        ],
+        "id": 138
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "01 Inbox/2025-06-08.md",
+        "wordCountStart": 1578,
+        "charCountStart": 7927,
+        "changes": [],
+        "id": 139
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/💌 Night school game/Hotel/Outline.md",
+        "wordCountStart": 144,
+        "charCountStart": 773,
+        "changes": [],
+        "id": 140
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/game engine/Versions/Design Scrap.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 32,
+            "c": 188
+          },
+          {
+            "timeKey": "22:40",
+            "w": 53,
+            "c": 321
+          },
+          {
+            "timeKey": "22:50",
+            "w": 21,
+            "c": 122
+          },
+          {
+            "timeKey": "22:55",
+            "w": 7,
+            "c": 80
+          },
+          {
+            "timeKey": "23:05",
+            "w": 32,
+            "c": 269
+          },
+          {
+            "timeKey": "23:10",
+            "w": 14,
+            "c": 64
+          },
+          {
+            "timeKey": "23:15",
+            "w": 54,
+            "c": 586
+          }
+        ],
+        "id": 141
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/game engine/02 Kanban.md",
+        "wordCountStart": 2,
+        "charCountStart": 32,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": -2,
+            "c": -32
+          },
+          {
+            "timeKey": "22:35",
+            "w": 6,
+            "c": 33
+          }
+        ],
+        "id": 142
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/game engine/03 Log.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 44,
+            "c": 240
+          }
+        ],
+        "id": 143
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/game engine/00 About.md",
+        "wordCountStart": 279,
+        "charCountStart": 2208,
+        "changes": [],
+        "id": 144
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/game engine/01 Resources.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 145
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "Templates/Design Doc Template.md",
+        "wordCountStart": 83,
+        "charCountStart": 862,
+        "changes": [
+          {
+            "timeKey": "22:50",
+            "w": 3,
+            "c": 41
+          }
+        ],
+        "id": 146
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/game engine/On Writing a Game Engine.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 16,
+            "c": 93
+          },
+          {
+            "timeKey": "22:45",
+            "w": 126,
+            "c": 692
+          },
+          {
+            "timeKey": "22:50",
+            "w": 226,
+            "c": 1178
+          }
+        ],
+        "id": 147
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/💌 Night school game/02 Plot and Structure/Story Overview.md",
+        "wordCountStart": 87,
+        "charCountStart": 590,
+        "changes": [],
+        "id": 148
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "04 Projects/Create/💌 Night school game/04 World and Systems/World Overview.md",
+        "wordCountStart": 96,
+        "charCountStart": 714,
+        "changes": [],
+        "id": 149
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 Areas/Writing/Card World/Characters/Overview.md",
+        "wordCountStart": 407,
+        "charCountStart": 4658,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "New Templates/Daily Log.md",
+        "wordCountStart": 57,
+        "charCountStart": 433,
+        "changes": [],
+        "id": 151
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 Areas/Writing/Card World/Scenes/01.md",
+        "wordCountStart": 1144,
+        "charCountStart": 5863,
+        "changes": [],
+        "id": 152
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "99 Archive/Unfinished Thoughts/Thoughts/Game Ideas.md",
+        "wordCountStart": 508,
+        "charCountStart": 3110,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 13,
+            "c": 74
+          }
+        ],
+        "id": 153
+      },
+      {
+        "date": "2025-06-22",
+        "filePath": "05 Areas/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 454,
+        "charCountStart": 2639,
+        "changes": [],
+        "id": 154
+      },
+      {
+        "date": "2025-06-22",
+        "filePath": "99 Archive/Unfinished Thoughts/Thoughts/Game Ideas.md",
+        "wordCountStart": 640,
+        "charCountStart": 3870,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 155
+      },
+      {
+        "date": "2025-06-23",
+        "filePath": "99 Archive/Unfinished Thoughts/Thoughts/Game Ideas.md",
+        "wordCountStart": 640,
+        "charCountStart": 3870,
+        "changes": [],
+        "id": 156
+      },
+      {
+        "date": "2025-06-23",
+        "filePath": "05 Areas/Writing/Harvest/00 Notes/Brainstorm.md",
+        "wordCountStart": 85,
+        "charCountStart": 496,
+        "changes": [],
+        "id": 157
+      },
+      {
+        "date": "2025-06-23",
+        "filePath": "05 Areas/Writing/Harvest/Scenes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 158
+      },
+      {
+        "date": "2025-06-24",
+        "filePath": "05 Areas/Writing/Harvest/Scenes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 163
+      },
+      {
+        "date": "2025-06-24",
+        "filePath": "04 Projects/Create/💌 Night school game/About.md",
+        "wordCountStart": 81,
+        "charCountStart": 521,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 22,
+            "c": 124
+          }
+        ],
+        "id": 164
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "04 Projects/Create/💌 Night school game/About.md",
+        "wordCountStart": 103,
+        "charCountStart": 645,
+        "changes": [],
+        "id": 167
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "05 Areas/Writing/Harvest/Characters.md",
+        "wordCountStart": 9,
+        "charCountStart": 68,
+        "changes": [],
+        "id": 168
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "00 Logs/03 Quarterly Reviews/2025Q2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 119,
+            "c": 675
+          },
+          {
+            "timeKey": "21:45",
+            "w": 234,
+            "c": 1433
+          },
+          {
+            "timeKey": "21:50",
+            "w": 99,
+            "c": 582
+          },
+          {
+            "timeKey": "21:55",
+            "w": 153,
+            "c": 750
+          },
+          {
+            "timeKey": "22:00",
+            "w": 14,
+            "c": 77
+          }
+        ],
+        "id": 169
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "99 Archive/Unfinished Thoughts/Thoughts/Game Ideas.md",
+        "wordCountStart": 640,
+        "charCountStart": 3870,
+        "changes": [],
+        "id": 170
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "03 Main Notes/6.1 Our perception of reality is a mixture of objectivity and subjectivity.md",
+        "wordCountStart": 96,
+        "charCountStart": 573,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 149,
+            "c": 840
+          },
+          {
+            "timeKey": "22:10",
+            "w": 124,
+            "c": 749
+          },
+          {
+            "timeKey": "22:15",
+            "w": 7,
+            "c": 32
+          }
+        ],
+        "id": 171
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "03 Main Notes/6.1a Humans are not rational.md",
+        "wordCountStart": 83,
+        "charCountStart": 480,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 13,
+            "c": 78
+          },
+          {
+            "timeKey": "22:15",
+            "w": 128,
+            "c": 742
+          }
+        ],
+        "id": 172
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "03 Main Notes/6.1a1 The idea of rationality is not rational.md",
+        "wordCountStart": 89,
+        "charCountStart": 513,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 79,
+            "c": 463
+          },
+          {
+            "timeKey": "22:20",
+            "w": 131,
+            "c": 712
+          }
+        ],
+        "id": 173
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "03 Main Notes/6.1a2 Humans are rational.md",
+        "wordCountStart": 81,
+        "charCountStart": 473,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 76,
+            "c": 392
+          },
+          {
+            "timeKey": "22:25",
+            "w": 38,
+            "c": 175
+          }
+        ],
+        "id": 174
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "03 Main Notes/6.1b Our perception of risk depends on our expectations.md",
+        "wordCountStart": 91,
+        "charCountStart": 534,
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": 82,
+            "c": 452
+          }
+        ],
+        "id": 175
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "03 Main Notes/6.1b1 Our expectations depend on our reference points.md",
+        "wordCountStart": 89,
+        "charCountStart": 529,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 115,
+            "c": 633
+          }
+        ],
+        "id": 176
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "03 Main Notes/6.1b2 Humans have a hard time accepting new theories when their expectations are wrong.md",
+        "wordCountStart": 101,
+        "charCountStart": 595,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 185,
+            "c": 1012
+          }
+        ],
+        "id": 177
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "04 Projects/Create/on_read/00 Notes/Outline.md",
+        "wordCountStart": 5,
+        "charCountStart": 23,
+        "changes": [],
+        "id": 178
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "05 Areas/Writing/Harvest/Scenes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 179
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "05 Areas/Writing/Harvest/00 Notes/Brainstorm.md",
+        "wordCountStart": 85,
+        "charCountStart": 496,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 180
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "04 Projects/Create/💌 Night school game/00 Notes/00 Notes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 181
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "04 Projects/Create/💌 Night school game/Outline.md",
+        "wordCountStart": 6229,
+        "charCountStart": 31735,
+        "changes": [],
+        "id": 183
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "04 Projects/Create/💌 Night school game/00 Notes/Brainstorm.md",
+        "wordCountStart": 4203,
+        "charCountStart": 23733,
+        "changes": [],
+        "id": 184
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "04 Projects/Create/💌 Night school game/00 Notes/Games.md",
+        "wordCountStart": 71,
+        "charCountStart": 407,
+        "changes": [],
+        "id": 185
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "04 Projects/Create/on_read/00 Notes/About.md",
+        "wordCountStart": 142,
+        "charCountStart": 795,
+        "changes": [],
+        "id": 186
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "05 Areas/Writing/Harvest/Untitled.canvas",
+        "wordCountStart": 0,
+        "charCountStart": 2,
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 187
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "99 Archive/Unfinished Thoughts/Thoughts/Game Ideas.md",
+        "wordCountStart": 640,
+        "charCountStart": 3870,
+        "changes": [],
+        "id": 188
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/04 World and Systems/World Overview.md",
+        "wordCountStart": 96,
+        "charCountStart": 714,
+        "changes": [],
+        "id": 189
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Ideas/World Overview1.md",
+        "wordCountStart": 96,
+        "charCountStart": 714,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": -96,
+            "c": -714
+          }
+        ],
+        "id": 190
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/04 World and Systems/04 World and Systems.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 191
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/04 World and Systems/Overview.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 94,
+            "c": 702
+          }
+        ],
+        "id": 192
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/03 Characters/Asher.md",
+        "wordCountStart": 501,
+        "charCountStart": 5296,
+        "changes": [],
+        "id": 193
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/02 Plot and Structure/Core Theme/Emotional Arcs.md",
+        "wordCountStart": 70,
+        "charCountStart": 554,
+        "changes": [],
+        "id": 194
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/02 Plot and Structure/02 Plot and Structure.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 195
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/02 Plot and Structure/Core Themes/Core Themes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 196
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/02 Plot and Structure/Core Themes/Core Themes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 197
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/02 Plot and Structure/Core Themes/Emotional Arc.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 71,
+            "c": 550
+          }
+        ],
+        "id": 198
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/02 Plot and Structure/Core Theme/Message.md",
+        "wordCountStart": 96,
+        "charCountStart": 630,
+        "changes": [],
+        "id": 199
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/02 Plot and Structure/Core Themes/Messages.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 96,
+            "c": 626
+          }
+        ],
+        "id": 200
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/02 Plot and Structure/Core Theme/Themes and Motifs.md",
+        "wordCountStart": 145,
+        "charCountStart": 1039,
+        "changes": [],
+        "id": 201
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/02 Plot and Structure/Core Themes/Themes and Motifs.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 144,
+            "c": 1028
+          }
+        ],
+        "id": 202
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/02 Plot and Structure/Story Overview.md",
+        "wordCountStart": 87,
+        "charCountStart": 590,
+        "changes": [],
+        "id": 203
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/01 Overview/01 Overview.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 204
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/01 Overview/Story.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 85,
+            "c": 575
+          }
+        ],
+        "id": 205
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/02 Plot and Structure/Acts/1 Act 1.md",
+        "wordCountStart": 91,
+        "charCountStart": 487,
+        "changes": [],
+        "id": 206
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/02 Plot and Structure/Acts/1.1 Scene.md",
+        "wordCountStart": 64,
+        "charCountStart": 456,
+        "changes": [],
+        "id": 207
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/02 Plot and Structure/Acts/Scene Template.md",
+        "wordCountStart": 64,
+        "charCountStart": 461,
+        "changes": [],
+        "id": 208
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/02 Plot and Structure/Acts/Acts.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 209
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/02 Plot and Structure/Acts/Scene.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 61,
+            "c": 434
+          }
+        ],
+        "id": 210
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/Harvest.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 211
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Harvest/00 Notes/Brainstorm.md",
+        "wordCountStart": 85,
+        "charCountStart": 498,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 7383,
+            "c": 42689
+          }
+        ],
+        "id": 212
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/on_read/script/00 Begin.md",
+        "wordCountStart": 554,
+        "charCountStart": 2761,
+        "changes": [],
+        "id": 213
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/About.md",
+        "wordCountStart": 103,
+        "charCountStart": 645,
+        "changes": [],
+        "id": 214
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Card World/Scenes/01.md",
+        "wordCountStart": 1144,
+        "charCountStart": 5863,
+        "changes": [],
+        "id": 215
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Writing/Card World/Scenes/03.md",
+        "wordCountStart": 301,
+        "charCountStart": 1512,
+        "changes": [],
+        "id": 216
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/game engine/00 About.md",
+        "wordCountStart": 279,
+        "charCountStart": 2208,
+        "changes": [],
+        "id": 217
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "05 Areas/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 458,
+        "charCountStart": 2675,
+        "changes": [],
+        "id": 218
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/Outline.md",
+        "wordCountStart": 6229,
+        "charCountStart": 31735,
+        "changes": [],
+        "id": 219
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/Emotional Outline.md",
+        "wordCountStart": 29,
+        "charCountStart": 169,
+        "changes": [],
+        "id": 220
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "04 Projects/Create/💌 Night school game/Outline 2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 28,
+            "c": 152
+          }
+        ],
+        "id": 221
+      },
+      {
+        "date": "2025-06-28",
+        "filePath": "04 Projects/Create/💌 Night school game/Outline 2.md",
+        "wordCountStart": 28,
+        "charCountStart": 152,
+        "changes": [],
+        "id": 223
+      },
+      {
+        "date": "2025-06-28",
+        "filePath": "04 Projects/Create/💌 Night school game/About.md",
+        "wordCountStart": 103,
+        "charCountStart": 645,
+        "changes": [],
+        "id": 224
+      },
+      {
+        "date": "2025-06-28",
+        "filePath": "05 Areas/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 458,
+        "charCountStart": 2675,
+        "changes": [
+          {
+            "timeKey": "11:15",
+            "w": 46,
+            "c": 263
+          }
+        ],
+        "id": 225
+      },
+      {
+        "date": "2025-06-28",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams.md",
+        "wordCountStart": 722,
+        "charCountStart": 3662,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 28,
+            "c": 136
+          },
+          {
+            "timeKey": "15:15",
+            "w": 49,
+            "c": 239
+          },
+          {
+            "timeKey": "15:20",
+            "w": 13,
+            "c": 54
+          },
+          {
+            "timeKey": "15:25",
+            "w": 4,
+            "c": 37
+          },
+          {
+            "timeKey": "15:30",
+            "w": 22,
+            "c": 113
+          },
+          {
+            "timeKey": "15:35",
+            "w": 167,
+            "c": 849
+          },
+          {
+            "timeKey": "15:40",
+            "w": -3,
+            "c": -22
+          },
+          {
+            "timeKey": "15:45",
+            "w": 61,
+            "c": 576
+          },
+          {
+            "timeKey": "15:50",
+            "w": 163,
+            "c": 932
+          },
+          {
+            "timeKey": "15:55",
+            "w": 21,
+            "c": 141
+          },
+          {
+            "timeKey": "18:10",
+            "w": 95,
+            "c": 524
+          },
+          {
+            "timeKey": "19:05",
+            "w": 0,
+            "c": 6
+          }
+        ],
+        "id": 226
+      },
+      {
+        "date": "2025-06-28",
+        "filePath": "05 Areas/Writing/Poems/Draft/hello, goodbye.md",
+        "wordCountStart": 3725,
+        "charCountStart": 17836,
+        "changes": [],
+        "id": 227
+      },
+      {
+        "date": "2025-06-28",
+        "filePath": "05 Areas/Writing/Poems/Complete/— hello, goodbye.md",
+        "wordCountStart": 257,
+        "charCountStart": 1261,
+        "changes": [],
+        "id": 228
+      },
+      {
+        "date": "2025-06-28",
+        "filePath": "05 Areas/Writing/Poems/Draft/hello, goodbye v2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 54,
+            "c": 259
+          }
+        ],
+        "id": 229
+      },
+      {
+        "date": "2025-06-28",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams v2.md",
+        "wordCountStart": 1342,
+        "charCountStart": 7247,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": -485,
+            "c": -2808
+          }
+        ],
+        "id": 230
+      },
+      {
+        "date": "2025-06-29",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams v2.md",
+        "wordCountStart": 857,
+        "charCountStart": 4439,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": 13,
+            "c": 61
+          },
+          {
+            "timeKey": "13:45",
+            "w": 7,
+            "c": 60
+          },
+          {
+            "timeKey": "13:50",
+            "w": 7,
+            "c": 31
+          },
+          {
+            "timeKey": "13:55",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "14:00",
+            "w": 44,
+            "c": 242
+          },
+          {
+            "timeKey": "14:05",
+            "w": 16,
+            "c": 77
+          },
+          {
+            "timeKey": "14:35",
+            "w": 26,
+            "c": 149
+          },
+          {
+            "timeKey": "14:45",
+            "w": 3,
+            "c": 11
+          },
+          {
+            "timeKey": "14:55",
+            "w": -61,
+            "c": -369
+          },
+          {
+            "timeKey": "15:00",
+            "w": 7,
+            "c": 51
+          },
+          {
+            "timeKey": "15:10",
+            "w": -57,
+            "c": -269
+          },
+          {
+            "timeKey": "15:15",
+            "w": 7,
+            "c": 46
+          },
+          {
+            "timeKey": "15:20",
+            "w": 29,
+            "c": 148
+          },
+          {
+            "timeKey": "15:25",
+            "w": 46,
+            "c": 230
+          },
+          {
+            "timeKey": "15:30",
+            "w": 3,
+            "c": 18
+          },
+          {
+            "timeKey": "15:35",
+            "w": 19,
+            "c": 99
+          },
+          {
+            "timeKey": "15:40",
+            "w": 69,
+            "c": 367
+          },
+          {
+            "timeKey": "15:45",
+            "w": 7,
+            "c": 47
+          },
+          {
+            "timeKey": "15:50",
+            "w": 9,
+            "c": 38
+          },
+          {
+            "timeKey": "15:55",
+            "w": 31,
+            "c": 155
+          },
+          {
+            "timeKey": "16:00",
+            "w": -33,
+            "c": -206
+          },
+          {
+            "timeKey": "16:05",
+            "w": -292,
+            "c": -1497
+          },
+          {
+            "timeKey": "16:10",
+            "w": -133,
+            "c": -686
+          },
+          {
+            "timeKey": "16:15",
+            "w": 32,
+            "c": 161
+          },
+          {
+            "timeKey": "16:20",
+            "w": -2,
+            "c": 2
+          },
+          {
+            "timeKey": "16:25",
+            "w": -2,
+            "c": -9
+          },
+          {
+            "timeKey": "16:40",
+            "w": 2,
+            "c": 14
+          },
+          {
+            "timeKey": "16:45",
+            "w": 20,
+            "c": 109
+          },
+          {
+            "timeKey": "16:50",
+            "w": -2,
+            "c": -8
+          },
+          {
+            "timeKey": "18:30",
+            "w": 20,
+            "c": 92
+          }
+        ],
+        "id": 231
+      },
+      {
+        "date": "2025-06-29",
+        "filePath": "05 Areas/Writing/Poems/Complete/— hello, goodbye.md",
+        "wordCountStart": 257,
+        "charCountStart": 1261,
+        "changes": [],
+        "id": 232
+      },
+      {
+        "date": "2025-06-29",
+        "filePath": "05 Areas/Writing/Poems/Draft/hello, goodbye.md",
+        "wordCountStart": 3725,
+        "charCountStart": 17836,
+        "changes": [],
+        "id": 233
+      },
+      {
+        "date": "2025-06-29",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams.md",
+        "wordCountStart": 1342,
+        "charCountStart": 7247,
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": 19,
+            "c": 180
+          },
+          {
+            "timeKey": "13:40",
+            "w": 9,
+            "c": 84
+          },
+          {
+            "timeKey": "14:00",
+            "w": 718,
+            "c": 3731
+          },
+          {
+            "timeKey": "15:35",
+            "w": 10,
+            "c": 99
+          }
+        ],
+        "id": 234
+      },
+      {
+        "date": "2025-06-30",
+        "filePath": "99 Archive/Unfinished Thoughts/Thoughts/Game Ideas.md",
+        "wordCountStart": 640,
+        "charCountStart": 3870,
+        "changes": [],
+        "id": 235
+      },
+      {
+        "date": "2025-06-30",
+        "filePath": "04 Projects/Create/💌 Night school game/Outline 2.md",
+        "wordCountStart": 28,
+        "charCountStart": 152,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 236
+      },
+      {
+        "date": "2025-06-30",
+        "filePath": "05 Areas/Writing/Card World/Scenes/01.md",
+        "wordCountStart": 1144,
+        "charCountStart": 5863,
+        "changes": [],
+        "id": 237
+      },
+      {
+        "date": "2025-06-30",
+        "filePath": "05 Areas/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 504,
+        "charCountStart": 2938,
+        "changes": [],
+        "id": 238
+      },
+      {
+        "date": "2025-06-30",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams.md",
+        "wordCountStart": 2098,
+        "charCountStart": 11341,
+        "changes": [],
+        "id": 239
+      },
+      {
+        "date": "2025-06-30",
+        "filePath": "04 Projects/Create/game engine/On Writing a Game Engine.md",
+        "wordCountStart": 368,
+        "charCountStart": 1963,
+        "changes": [],
+        "id": 240
+      },
+      {
+        "date": "2025-06-30",
+        "filePath": "04 Projects/Create/game engine/00 About.md",
+        "wordCountStart": 279,
+        "charCountStart": 2208,
+        "changes": [],
+        "id": 241
+      },
+      {
+        "date": "2025-06-30",
+        "filePath": "04 Projects/Create/game engine/01 Resources.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:15",
+            "w": 6,
+            "c": 40
+          },
+          {
+            "timeKey": "19:50",
+            "w": 7,
+            "c": 98
+          },
+          {
+            "timeKey": "22:35",
+            "w": 20,
+            "c": 171
+          },
+          {
+            "timeKey": "22:40",
+            "w": 40,
+            "c": 340
+          },
+          {
+            "timeKey": "22:45",
+            "w": 11,
+            "c": 145
+          },
+          {
+            "timeKey": "22:50",
+            "w": 3,
+            "c": 20
+          },
+          {
+            "timeKey": "22:55",
+            "w": 45,
+            "c": 335
+          },
+          {
+            "timeKey": "23:00",
+            "w": 17,
+            "c": 102
+          }
+        ],
+        "id": 242
+      },
+      {
+        "date": "2025-06-30",
+        "filePath": "04 Projects/Create/game engine/Versions/Design Scrap.md",
+        "wordCountStart": 213,
+        "charCountStart": 1630,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 57,
+            "c": 375
+          },
+          {
+            "timeKey": "22:20",
+            "w": 100,
+            "c": 763
+          },
+          {
+            "timeKey": "22:25",
+            "w": 10,
+            "c": 88
+          },
+          {
+            "timeKey": "22:30",
+            "w": 35,
+            "c": 236
+          },
+          {
+            "timeKey": "22:55",
+            "w": 5,
+            "c": 31
+          }
+        ],
+        "id": 243
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/game engine/Versions/Design Scrap.md",
+        "wordCountStart": 420,
+        "charCountStart": 3123,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 1,
+            "c": 16
+          },
+          {
+            "timeKey": "19:00",
+            "w": 2,
+            "c": 21
+          }
+        ],
+        "id": 244
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams v2.md",
+        "wordCountStart": 693,
+        "charCountStart": 3609,
+        "changes": [],
+        "id": 245
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "05 Areas/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 504,
+        "charCountStart": 2938,
+        "changes": [],
+        "id": 246
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "05 Areas/Writing/Card World/Scenes/03.md",
+        "wordCountStart": 301,
+        "charCountStart": 1512,
+        "changes": [],
+        "id": 247
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "05 Areas/Writing/Card World/Scenes/01.md",
+        "wordCountStart": 1144,
+        "charCountStart": 5863,
+        "changes": [],
+        "id": 248
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/💌 Night school game/Outline 2.md",
+        "wordCountStart": 28,
+        "charCountStart": 152,
+        "changes": [
+          {
+            "timeKey": "09:35",
+            "w": 30,
+            "c": 160
+          },
+          {
+            "timeKey": "09:40",
+            "w": 178,
+            "c": 916
+          },
+          {
+            "timeKey": "21:50",
+            "w": 6,
+            "c": 50
+          },
+          {
+            "timeKey": "21:55",
+            "w": 87,
+            "c": 658
+          },
+          {
+            "timeKey": "22:00",
+            "w": 43,
+            "c": 266
+          },
+          {
+            "timeKey": "22:05",
+            "w": 60,
+            "c": 522
+          },
+          {
+            "timeKey": "22:10",
+            "w": 27,
+            "c": 219
+          },
+          {
+            "timeKey": "22:15",
+            "w": 13,
+            "c": 70
+          },
+          {
+            "timeKey": "22:20",
+            "w": 14,
+            "c": 71
+          },
+          {
+            "timeKey": "22:25",
+            "w": 37,
+            "c": 303
+          },
+          {
+            "timeKey": "22:30",
+            "w": 22,
+            "c": 172
+          }
+        ],
+        "id": 249
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/game engine/04 Design.md",
+        "wordCountStart": 423,
+        "charCountStart": 3160,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 20,
+            "c": 132
+          },
+          {
+            "timeKey": "19:35",
+            "w": -29,
+            "c": -114
+          },
+          {
+            "timeKey": "19:45",
+            "w": 44,
+            "c": 255
+          },
+          {
+            "timeKey": "20:45",
+            "w": 3,
+            "c": 18
+          }
+        ],
+        "id": 250
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/game engine/02 Kanban.md",
+        "wordCountStart": 38,
+        "charCountStart": 264,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": -37,
+            "c": -260
+          },
+          {
+            "timeKey": "19:35",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "21:20",
+            "w": -2,
+            "c": -11
+          }
+        ],
+        "id": 251
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/game engine/MVP Design.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 101,
+            "c": 706
+          },
+          {
+            "timeKey": "21:00",
+            "w": 41,
+            "c": 289
+          },
+          {
+            "timeKey": "21:05",
+            "w": 7,
+            "c": 31
+          },
+          {
+            "timeKey": "21:10",
+            "w": 13,
+            "c": 78
+          },
+          {
+            "timeKey": "21:20",
+            "w": 20,
+            "c": 108
+          }
+        ],
+        "id": 252
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/game engine/01 Resources.md",
+        "wordCountStart": 149,
+        "charCountStart": 1251,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 7,
+            "c": 127
+          },
+          {
+            "timeKey": "20:55",
+            "w": 9,
+            "c": 97
+          }
+        ],
+        "id": 253
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/game engine/On Writing a Game Engine.md",
+        "wordCountStart": 368,
+        "charCountStart": 1963,
+        "changes": [],
+        "id": 254
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/game engine/Custom File Format.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 3,
+            "c": 18
+          },
+          {
+            "timeKey": "21:05",
+            "w": 32,
+            "c": 181
+          }
+        ],
+        "id": 255
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/game engine/Every Day a Different Dream/Every Day a Different Dream.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 256
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/game engine/Every Day a Different Dream/About.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 45,
+            "c": 217
+          }
+        ],
+        "id": 257
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/game engine/Every Day a Different Dream/Outline.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 3,
+            "c": 23
+          },
+          {
+            "timeKey": "21:25",
+            "w": 45,
+            "c": 309
+          }
+        ],
+        "id": 258
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "99 Archive/Unfinished Thoughts/Thoughts/Game Ideas.md",
+        "wordCountStart": 640,
+        "charCountStart": 3870,
+        "changes": [],
+        "id": 259
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "05 Areas/Writing/Poems/Draft/hello, goodbye.md",
+        "wordCountStart": 3725,
+        "charCountStart": 17836,
+        "changes": [],
+        "id": 260
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/on_read/00 Notes/About.md",
+        "wordCountStart": 142,
+        "charCountStart": 795,
+        "changes": [],
+        "id": 261
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "05 Areas/Writing/Card World/Outline.md",
+        "wordCountStart": 65,
+        "charCountStart": 363,
+        "changes": [],
+        "id": 262
+      },
+      {
+        "date": "2025-07-01",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams.md",
+        "wordCountStart": 2098,
+        "charCountStart": 11341,
+        "changes": [],
+        "id": 263
+      },
+      {
+        "date": "2025-07-02",
+        "filePath": "04 Projects/Create/game engine/Every Day a Different Dream/Outline.md",
+        "wordCountStart": 48,
+        "charCountStart": 332,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 16,
+            "c": 87
+          },
+          {
+            "timeKey": "09:25",
+            "w": 35,
+            "c": 179
+          }
+        ],
+        "id": 264
+      },
+      {
+        "date": "2025-07-04",
+        "filePath": "04 Projects/Create/game engine/Every Day a Different Dream/Outline.md",
+        "wordCountStart": 99,
+        "charCountStart": 598,
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": 0,
+            "c": 3
+          }
+        ],
+        "id": 265
+      },
+      {
+        "date": "2025-07-12",
+        "filePath": "04 Projects/Create/game engine/Every Day a Different Dream/Outline.md",
+        "wordCountStart": 99,
+        "charCountStart": 601,
+        "changes": [
+          {
+            "timeKey": "07:40",
+            "w": 41,
+            "c": 231
+          }
+        ],
+        "id": 267
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams v2.md",
+        "wordCountStart": 719,
+        "charCountStart": 3738,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:05",
+            "w": 1,
+            "c": 24
+          },
+          {
+            "timeKey": "23:10",
+            "w": 22,
+            "c": 140
+          },
+          {
+            "timeKey": "23:15",
+            "w": 11,
+            "c": 52
+          }
+        ],
+        "id": 268
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/hello, goodbye v2.md",
+        "wordCountStart": 54,
+        "charCountStart": 259,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 58,
+            "c": 290
+          },
+          {
+            "timeKey": "22:20",
+            "w": 4,
+            "c": 20
+          }
+        ],
+        "id": 269
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "05 Areas/Writing/Poems/Complete/— hello, goodbye.md",
+        "wordCountStart": 257,
+        "charCountStart": 1261,
+        "changes": [],
+        "id": 270
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "04 Projects/Create/game engine/Every Day a Different Dream/Outline.md",
+        "wordCountStart": 140,
+        "charCountStart": 832,
+        "changes": [],
+        "id": 271
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "04 Projects/Create/on_read/script/00 Begin.md",
+        "wordCountStart": 554,
+        "charCountStart": 2761,
+        "changes": [],
+        "id": 272
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams.md",
+        "wordCountStart": 2098,
+        "charCountStart": 11341,
+        "changes": [
+          {
+            "timeKey": "23:05",
+            "w": 24,
+            "c": 127
+          }
+        ],
+        "id": 273
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "05 Areas/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 504,
+        "charCountStart": 2938,
+        "changes": [],
+        "id": 274
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "05 Areas/Writing/Card World/Scenes/03.md",
+        "wordCountStart": 301,
+        "charCountStart": 1512,
+        "changes": [],
+        "id": 275
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "05 Areas/Writing/Card World/Scenes/01.md",
+        "wordCountStart": 1144,
+        "charCountStart": 5863,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 1,
+            "c": 2
+          },
+          {
+            "timeKey": "22:35",
+            "w": -1,
+            "c": -4
+          }
+        ],
+        "id": 276
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "04 Projects/Create/💌 Night school game/Outline 2.md",
+        "wordCountStart": 545,
+        "charCountStart": 3559,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 16,
+            "c": 134
+          },
+          {
+            "timeKey": "22:40",
+            "w": 1,
+            "c": 13
+          }
+        ],
+        "id": 277
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "04 Projects/Create/💌 Night school game/Week-by-Week Outline.md",
+        "wordCountStart": 29,
+        "charCountStart": 162,
+        "changes": [],
+        "id": 278
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "04 Projects/Create/💌 Night school game/Emotional Outline.md",
+        "wordCountStart": 29,
+        "charCountStart": 169,
+        "changes": [],
+        "id": 279
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "04 Projects/Create/on_read/00 Notes/Outline.md",
+        "wordCountStart": 5,
+        "charCountStart": 23,
+        "changes": [],
+        "id": 280
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "04 Projects/Create/💌 Night school game/01 Overview/Outline.md",
+        "wordCountStart": 359,
+        "charCountStart": 1922,
+        "changes": [],
+        "id": 281
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams v2.md",
+        "wordCountStart": 753,
+        "charCountStart": 3954,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 4,
+            "c": 26
+          },
+          {
+            "timeKey": "15:45",
+            "w": 5,
+            "c": 24
+          },
+          {
+            "timeKey": "15:50",
+            "w": -4,
+            "c": -43
+          },
+          {
+            "timeKey": "15:55",
+            "w": 38,
+            "c": 196
+          },
+          {
+            "timeKey": "16:00",
+            "w": 49,
+            "c": 277
+          },
+          {
+            "timeKey": "16:05",
+            "w": -41,
+            "c": -213
+          },
+          {
+            "timeKey": "16:10",
+            "w": -12,
+            "c": -79
+          },
+          {
+            "timeKey": "16:15",
+            "w": -2,
+            "c": -16
+          },
+          {
+            "timeKey": "16:20",
+            "w": -89,
+            "c": -465
+          },
+          {
+            "timeKey": "16:35",
+            "w": 0,
+            "c": -4
+          },
+          {
+            "timeKey": "16:40",
+            "w": 6,
+            "c": 24
+          },
+          {
+            "timeKey": "16:45",
+            "w": 10,
+            "c": 52
+          },
+          {
+            "timeKey": "16:50",
+            "w": 18,
+            "c": 101
+          },
+          {
+            "timeKey": "16:55",
+            "w": 9,
+            "c": 48
+          },
+          {
+            "timeKey": "17:00",
+            "w": 4,
+            "c": 20
+          },
+          {
+            "timeKey": "17:05",
+            "w": 12,
+            "c": 62
+          },
+          {
+            "timeKey": "17:10",
+            "w": 4,
+            "c": 17
+          },
+          {
+            "timeKey": "17:15",
+            "w": 4,
+            "c": 16
+          },
+          {
+            "timeKey": "17:20",
+            "w": 27,
+            "c": 118
+          },
+          {
+            "timeKey": "17:30",
+            "w": 8,
+            "c": 44
+          }
+        ],
+        "id": 282
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams.md",
+        "wordCountStart": 2122,
+        "charCountStart": 11468,
+        "changes": [],
+        "id": 283
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams v2.md",
+        "wordCountStart": 803,
+        "charCountStart": 4159,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 8,
+            "c": 39
+          },
+          {
+            "timeKey": "17:40",
+            "w": 4,
+            "c": 20
+          },
+          {
+            "timeKey": "17:45",
+            "w": 14,
+            "c": 56
+          },
+          {
+            "timeKey": "17:50",
+            "w": 36,
+            "c": 164
+          },
+          {
+            "timeKey": "17:55",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "18:00",
+            "w": 15,
+            "c": 64
+          },
+          {
+            "timeKey": "18:10",
+            "w": 16,
+            "c": 79
+          },
+          {
+            "timeKey": "18:15",
+            "w": 62,
+            "c": 300
+          },
+          {
+            "timeKey": "18:20",
+            "w": 36,
+            "c": 206
+          },
+          {
+            "timeKey": "18:25",
+            "w": 77,
+            "c": 384
+          },
+          {
+            "timeKey": "18:30",
+            "w": 15,
+            "c": 66
+          },
+          {
+            "timeKey": "18:35",
+            "w": 5,
+            "c": 31
+          },
+          {
+            "timeKey": "18:40",
+            "w": 1,
+            "c": 10
+          },
+          {
+            "timeKey": "18:45",
+            "w": 12,
+            "c": 77
+          },
+          {
+            "timeKey": "18:50",
+            "w": -1,
+            "c": -26
+          },
+          {
+            "timeKey": "18:55",
+            "w": -233,
+            "c": -1198
+          },
+          {
+            "timeKey": "19:00",
+            "w": 6,
+            "c": 31
+          },
+          {
+            "timeKey": "19:05",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 284
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams - Poem Version.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 876,
+            "c": 4463
+          },
+          {
+            "timeKey": "19:05",
+            "w": -1,
+            "c": -18
+          },
+          {
+            "timeKey": "19:10",
+            "w": 1,
+            "c": 10
+          },
+          {
+            "timeKey": "19:15",
+            "w": 0,
+            "c": 7
+          },
+          {
+            "timeKey": "19:20",
+            "w": -1,
+            "c": -9
+          }
+        ],
+        "id": 285
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "05 Areas/Writing/Poems/Draft/midnight drive.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 102,
+            "c": 525
+          },
+          {
+            "timeKey": "19:50",
+            "w": 1,
+            "c": 4
+          },
+          {
+            "timeKey": "19:55",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "20:00",
+            "w": 3,
+            "c": 18
+          },
+          {
+            "timeKey": "20:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:15",
+            "w": 3,
+            "c": 16
+          },
+          {
+            "timeKey": "20:20",
+            "w": -1,
+            "c": -9
+          }
+        ],
+        "id": 286
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "05 Areas/Writing/Poems/Complete/— hello, goodbye.md",
+        "wordCountStart": 338,
+        "charCountStart": 1637,
+        "changes": [
+          {
+            "timeKey": "19:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 287
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "05 Areas/Writing/Poems/Draft/hello, goodbye v2.md",
+        "wordCountStart": 403,
+        "charCountStart": 1895,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 6,
+            "c": 28
+          },
+          {
+            "timeKey": "16:15",
+            "w": 9,
+            "c": 45
+          },
+          {
+            "timeKey": "16:20",
+            "w": 4,
+            "c": 4
+          },
+          {
+            "timeKey": "17:40",
+            "w": 4,
+            "c": 23
+          }
+        ],
+        "id": 288
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "04 Projects/Create/💌 Night school game/01 Overview/Outline.md",
+        "wordCountStart": 533,
+        "charCountStart": 2905,
+        "changes": [],
+        "id": 289
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "05 Areas/Writing/Poems/Draft/hello, goodbye v2.md",
+        "wordCountStart": 426,
+        "charCountStart": 1995,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 13,
+            "c": 56
+          },
+          {
+            "timeKey": "18:25",
+            "w": 15,
+            "c": 70
+          },
+          {
+            "timeKey": "20:50",
+            "w": 6,
+            "c": 25
+          },
+          {
+            "timeKey": "21:00",
+            "w": -12,
+            "c": -52
+          },
+          {
+            "timeKey": "21:05",
+            "w": 6,
+            "c": 33
+          },
+          {
+            "timeKey": "21:10",
+            "w": 2,
+            "c": 5
+          },
+          {
+            "timeKey": "21:20",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "21:30",
+            "w": 7,
+            "c": 25
+          },
+          {
+            "timeKey": "21:50",
+            "w": 10,
+            "c": 48
+          },
+          {
+            "timeKey": "21:55",
+            "w": -10,
+            "c": -48
+          },
+          {
+            "timeKey": "22:00",
+            "w": 3,
+            "c": 14
+          }
+        ],
+        "id": 290
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "05 Areas/Writing/Poems/Complete/— hello, goodbye.md",
+        "wordCountStart": 338,
+        "charCountStart": 1637,
+        "changes": [],
+        "id": 291
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "05 Areas/Writing/Poems/Draft/hello, goodbye v2.md",
+        "wordCountStart": 466,
+        "charCountStart": 2172,
+        "changes": [
+          {
+            "timeKey": "11:50",
+            "w": 2,
+            "c": 10
+          }
+        ],
+        "id": 292
+      },
+      {
+        "date": "2025-08-09",
+        "filePath": "05 Areas/Writing/Poems/Draft/hello, goodbye v2.md",
+        "wordCountStart": 468,
+        "charCountStart": 2182,
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": 327,
+            "c": 1480
+          }
+        ],
+        "id": 294
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams v2.md",
+        "wordCountStart": 876,
+        "charCountStart": 4462,
+        "changes": [],
+        "id": 295
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "hello, goodbye v3.md",
+        "wordCountStart": 35,
+        "charCountStart": 163,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 23,
+            "c": 120
+          },
+          {
+            "timeKey": "20:35",
+            "w": 19,
+            "c": 84
+          },
+          {
+            "timeKey": "20:40",
+            "w": 184,
+            "c": 858
+          },
+          {
+            "timeKey": "21:00",
+            "w": 1,
+            "c": 1
+          },
+          {
+            "timeKey": "21:10",
+            "w": 0,
+            "c": 5
+          },
+          {
+            "timeKey": "21:15",
+            "w": -2,
+            "c": -4
+          }
+        ],
+        "id": 296
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "05 Areas/Writing/Poems/Complete/— hello, goodbye.md",
+        "wordCountStart": 338,
+        "charCountStart": 1637,
+        "changes": [],
+        "id": 297
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams.md",
+        "wordCountStart": 2122,
+        "charCountStart": 11468,
+        "changes": [],
+        "id": 298
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams - Poem Version.md",
+        "wordCountStart": 875,
+        "charCountStart": 4453,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 1,
+            "c": 13
+          },
+          {
+            "timeKey": "21:05",
+            "w": 1,
+            "c": 11
+          },
+          {
+            "timeKey": "21:10",
+            "w": 2,
+            "c": 8
+          },
+          {
+            "timeKey": "21:15",
+            "w": 3,
+            "c": 13
+          },
+          {
+            "timeKey": "21:20",
+            "w": 9,
+            "c": 46
+          },
+          {
+            "timeKey": "21:25",
+            "w": 18,
+            "c": 104
+          },
+          {
+            "timeKey": "21:30",
+            "w": 0,
+            "c": 10
+          },
+          {
+            "timeKey": "21:35",
+            "w": -1,
+            "c": -2
+          }
+        ],
+        "id": 299
+      },
+      {
+        "date": "2025-08-16",
+        "filePath": "hello, goodbye v3.md",
+        "wordCountStart": 263,
+        "charCountStart": 1230,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:25",
+            "w": -1,
+            "c": -4
+          }
+        ],
+        "id": 300
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "05 Areas/Writing/Poems/Complete/— hello, goodbye.md",
+        "wordCountStart": 338,
+        "charCountStart": 1637,
+        "changes": [],
+        "id": 301
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams - Poem Version.md",
+        "wordCountStart": 945,
+        "charCountStart": 4845,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:15",
+            "w": -1,
+            "c": -9
+          }
+        ],
+        "id": 302
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "hello, goodbye v3.md",
+        "wordCountStart": 262,
+        "charCountStart": 1226,
+        "changes": [
+          {
+            "timeKey": "23:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 303
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "05 Areas/Writing/Poems/Draft/midnight drive.md",
+        "wordCountStart": 108,
+        "charCountStart": 555,
+        "changes": [
+          {
+            "timeKey": "23:35",
+            "w": 4,
+            "c": 25
+          },
+          {
+            "timeKey": "23:40",
+            "w": -3,
+            "c": -18
+          }
+        ],
+        "id": 304
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "05 Areas/Writing/Poems/Draft/you (and i).md",
+        "wordCountStart": 204,
+        "charCountStart": 1019,
+        "changes": [
+          {
+            "timeKey": "23:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 305
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "05 Areas/Writing/Poems/Draft/you (and i).md",
+        "wordCountStart": 204,
+        "charCountStart": 1019,
+        "changes": [],
+        "id": 306
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "05 Areas/Writing/Poems/Complete/— hello, goodbye.md",
+        "wordCountStart": 338,
+        "charCountStart": 1637,
+        "changes": [],
+        "id": 307
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams - Poem Version.md",
+        "wordCountStart": 944,
+        "charCountStart": 4836,
+        "changes": [],
+        "id": 308
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "05 Areas/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 504,
+        "charCountStart": 2938,
+        "changes": [],
+        "id": 309
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "04 Projects/Create/game engine/Every Day a Different Dream/Outline.md",
+        "wordCountStart": 140,
+        "charCountStart": 832,
+        "changes": [],
+        "id": 310
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "04 Projects/Create/💌 Night school game/01 Overview/Outline.md",
+        "wordCountStart": 533,
+        "charCountStart": 2905,
+        "changes": [],
+        "id": 311
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "04 Projects/Create/on_read/script/00 Begin.md",
+        "wordCountStart": 554,
+        "charCountStart": 2761,
+        "changes": [],
+        "id": 312
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "04 Projects/Create/💌 Night school game/05 Writing/Draft.md",
+        "wordCountStart": 40,
+        "charCountStart": 215,
+        "changes": [],
+        "id": 313
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "04 Projects/Create/💌 Night school game/03 Characters/Overview.md",
+        "wordCountStart": 8,
+        "charCountStart": 68,
+        "changes": [],
+        "id": 314
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "04 Projects/Create/💌 Night school game/05 Writing/Draft.md",
+        "wordCountStart": 40,
+        "charCountStart": 215,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:00",
+            "w": 123,
+            "c": 600
+          },
+          {
+            "timeKey": "16:05",
+            "w": 44,
+            "c": 228
+          },
+          {
+            "timeKey": "16:55",
+            "w": 38,
+            "c": 191
+          },
+          {
+            "timeKey": "17:00",
+            "w": 135,
+            "c": 691
+          },
+          {
+            "timeKey": "17:05",
+            "w": 10,
+            "c": 46
+          },
+          {
+            "timeKey": "18:00",
+            "w": 70,
+            "c": 355
+          },
+          {
+            "timeKey": "18:05",
+            "w": 113,
+            "c": 584
+          },
+          {
+            "timeKey": "18:10",
+            "w": 8,
+            "c": 45
+          }
+        ],
+        "id": 316
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "04 Projects/Create/💌 Night school game/03 Characters/Overview.md",
+        "wordCountStart": 8,
+        "charCountStart": 68,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 3,
+            "c": 27
+          },
+          {
+            "timeKey": "16:05",
+            "w": 69,
+            "c": 367
+          },
+          {
+            "timeKey": "16:10",
+            "w": 21,
+            "c": 101
+          }
+        ],
+        "id": 317
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams - Poem Version.md",
+        "wordCountStart": 944,
+        "charCountStart": 4836,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 0,
+            "c": 5
+          },
+          {
+            "timeKey": "14:35",
+            "w": 2,
+            "c": 17
+          },
+          {
+            "timeKey": "14:40",
+            "w": 31,
+            "c": 159
+          },
+          {
+            "timeKey": "14:55",
+            "w": -6,
+            "c": -27
+          },
+          {
+            "timeKey": "15:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:15",
+            "w": -28,
+            "c": -150
+          }
+        ],
+        "id": 318
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "04 Projects/Create/💌 Currently writing/Deep Sea Dreams v2.md",
+        "wordCountStart": 876,
+        "charCountStart": 4462,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": -1,
+            "c": -11
+          },
+          {
+            "timeKey": "14:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:40",
+            "w": 2,
+            "c": 8
+          },
+          {
+            "timeKey": "14:45",
+            "w": 9,
+            "c": 53
+          },
+          {
+            "timeKey": "14:55",
+            "w": 6,
+            "c": 23
+          }
+        ],
+        "id": 319
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/ash and dust.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": 202,
+            "c": 960
+          },
+          {
+            "timeKey": "15:10",
+            "w": 57,
+            "c": 281
+          },
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "18:15",
+            "w": -5,
+            "c": -24
+          },
+          {
+            "timeKey": "18:20",
+            "w": 10,
+            "c": 53
+          },
+          {
+            "timeKey": "18:25",
+            "w": 13,
+            "c": 55
+          },
+          {
+            "timeKey": "18:30",
+            "w": 275,
+            "c": 1293
+          },
+          {
+            "timeKey": "18:35",
+            "w": 5,
+            "c": 30
+          },
+          {
+            "timeKey": "18:40",
+            "w": 3,
+            "c": 9
+          },
+          {
+            "timeKey": "18:55",
+            "w": 10,
+            "c": 38
+          },
+          {
+            "timeKey": "19:10",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "19:15",
+            "w": 6,
+            "c": 32
+          },
+          {
+            "timeKey": "22:05",
+            "w": -2,
+            "c": -2
+          },
+          {
+            "timeKey": "22:10",
+            "w": 2,
+            "c": 9
+          },
+          {
+            "timeKey": "22:15",
+            "w": -2,
+            "c": -10
+          }
+        ],
+        "id": 320
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/you (and i).md",
+        "wordCountStart": 204,
+        "charCountStart": 1019,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 231,
+            "c": 1691
+          }
+        ],
+        "id": 321
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/hello, goodbye.md",
+        "wordCountStart": 3761,
+        "charCountStart": 18008,
+        "changes": [],
+        "id": 322
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Card World/Outline.md",
+        "wordCountStart": 65,
+        "charCountStart": 363,
+        "changes": [],
+        "id": 323
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "04 Projects/Create/💌 Night school game/01 Overview/Outline.md",
+        "wordCountStart": 533,
+        "charCountStart": 2905,
+        "changes": [],
+        "id": 324
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Card World/Scenes/00 Intro.md",
+        "wordCountStart": 23,
+        "charCountStart": 178,
+        "changes": [],
+        "id": 325
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Card World/Scenes/01.md",
+        "wordCountStart": 1144,
+        "charCountStart": 5861,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 14,
+            "c": 68
+          },
+          {
+            "timeKey": "16:15",
+            "w": 27,
+            "c": 159
+          },
+          {
+            "timeKey": "16:20",
+            "w": 18,
+            "c": 87
+          },
+          {
+            "timeKey": "16:25",
+            "w": 27,
+            "c": 205
+          },
+          {
+            "timeKey": "16:30",
+            "w": 97,
+            "c": 466
+          },
+          {
+            "timeKey": "16:35",
+            "w": 65,
+            "c": 331
+          },
+          {
+            "timeKey": "16:40",
+            "w": 72,
+            "c": 435
+          },
+          {
+            "timeKey": "16:45",
+            "w": 102,
+            "c": 534
+          }
+        ],
+        "id": 326
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Card World/Scenes/03.md",
+        "wordCountStart": 301,
+        "charCountStart": 1512,
+        "changes": [],
+        "id": 327
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Card World/Scenes/02.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 9,
+            "c": 43
+          },
+          {
+            "timeKey": "16:50",
+            "w": 153,
+            "c": 866
+          },
+          {
+            "timeKey": "16:55",
+            "w": 71,
+            "c": 385
+          },
+          {
+            "timeKey": "22:15",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 328
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Complete/ashes and dust.md",
+        "wordCountStart": 552,
+        "charCountStart": 2622,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": -294,
+            "c": -1406
+          },
+          {
+            "timeKey": "18:35",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 329
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "04 Projects/Create/on_read/script/00 Begin.md",
+        "wordCountStart": 554,
+        "charCountStart": 2761,
+        "changes": [],
+        "id": 330
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/when the world was alive.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 331
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/losers.md",
+        "wordCountStart": 43,
+        "charCountStart": 185,
+        "changes": [],
+        "id": 332
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/midnight train.md",
+        "wordCountStart": 88,
+        "charCountStart": 842,
+        "changes": [],
+        "id": 333
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/midnight drive.md",
+        "wordCountStart": 109,
+        "charCountStart": 562,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 334
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/it's a feeling.md",
+        "wordCountStart": 51,
+        "charCountStart": 205,
+        "changes": [],
+        "id": 335
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/imperfect.md",
+        "wordCountStart": 13,
+        "charCountStart": 65,
+        "changes": [],
+        "id": 336
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/how.md",
+        "wordCountStart": 143,
+        "charCountStart": 695,
+        "changes": [],
+        "id": 337
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/hesitation.md",
+        "wordCountStart": 21,
+        "charCountStart": 108,
+        "changes": [],
+        "id": 338
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/hello, goodbye v2.md",
+        "wordCountStart": 795,
+        "charCountStart": 3662,
+        "changes": [],
+        "id": 339
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/fall.md",
+        "wordCountStart": 12,
+        "charCountStart": 48,
+        "changes": [],
+        "id": 340
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/flow.md",
+        "wordCountStart": 10,
+        "charCountStart": 50,
+        "changes": [],
+        "id": 341
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/dreamstate.md",
+        "wordCountStart": 90,
+        "charCountStart": 384,
+        "changes": [],
+        "id": 342
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/do you know.md",
+        "wordCountStart": 51,
+        "charCountStart": 225,
+        "changes": [],
+        "id": 343
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/close.md",
+        "wordCountStart": 107,
+        "charCountStart": 880,
+        "changes": [],
+        "id": 344
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/between the lines.md",
+        "wordCountStart": 661,
+        "charCountStart": 3085,
+        "changes": [],
+        "id": 345
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/open and shut.md",
+        "wordCountStart": 4,
+        "charCountStart": 20,
+        "changes": [],
+        "id": 346
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/people are scary.md",
+        "wordCountStart": 78,
+        "charCountStart": 326,
+        "changes": [],
+        "id": 347
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/shades of fog.md",
+        "wordCountStart": 47,
+        "charCountStart": 236,
+        "changes": [],
+        "id": 348
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/sleep for the night.md",
+        "wordCountStart": 639,
+        "charCountStart": 3494,
+        "changes": [],
+        "id": 349
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/Untitled.md",
+        "wordCountStart": 14,
+        "charCountStart": 59,
+        "changes": [],
+        "id": 350
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/Untitled 3 1.md",
+        "wordCountStart": 5,
+        "charCountStart": 28,
+        "changes": [],
+        "id": 351
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/www.md",
+        "wordCountStart": 136,
+        "charCountStart": 705,
+        "changes": [],
+        "id": 352
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/yellow.md",
+        "wordCountStart": 5,
+        "charCountStart": 20,
+        "changes": [],
+        "id": 353
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "Aug 10, 2025.md",
+        "wordCountStart": 335,
+        "charCountStart": 1585,
+        "changes": [],
+        "id": 354
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "Annie manual.md",
+        "wordCountStart": 139,
+        "charCountStart": 767,
+        "changes": [],
+        "id": 355
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "Changelog.md",
+        "wordCountStart": 182,
+        "charCountStart": 983,
+        "changes": [],
+        "id": 356
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "05 Areas/Writing/Poems/Draft/sand castle.md",
+        "wordCountStart": 201,
+        "charCountStart": 987,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 2,
+            "c": -1
+          }
+        ],
+        "id": 357
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "05 Areas/Writing/Poems/Draft/sand castle.md",
+        "wordCountStart": 203,
+        "charCountStart": 986,
+        "changes": [],
+        "id": 362
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "05 Areas/Writing/Poems/Draft/ash and dust.md",
+        "wordCountStart": 606,
+        "charCountStart": 2868,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 23,
+            "c": 103
+          },
+          {
+            "timeKey": "12:00",
+            "w": 49,
+            "c": 203
+          },
+          {
+            "timeKey": "12:05",
+            "w": 13,
+            "c": 69
+          },
+          {
+            "timeKey": "12:10",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "12:15",
+            "w": 16,
+            "c": 74
+          }
+        ],
+        "id": 363
+      },
+      {
+        "date": "2025-10-03",
+        "filePath": "05 Areas/Writing/Poems/Draft/ash and dust.md",
+        "wordCountStart": 709,
+        "charCountStart": 3329,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 6,
+            "c": 41
+          },
+          {
+            "timeKey": "00:05",
+            "w": 21,
+            "c": 72
+          },
+          {
+            "timeKey": "00:10",
+            "w": -3,
+            "c": -11
+          },
+          {
+            "timeKey": "21:40",
+            "w": 53,
+            "c": 241
+          },
+          {
+            "timeKey": "23:30",
+            "w": 255,
+            "c": 1194
+          },
+          {
+            "timeKey": "23:35",
+            "w": -37,
+            "c": -160
+          },
+          {
+            "timeKey": "23:40",
+            "w": 1,
+            "c": 12
+          },
+          {
+            "timeKey": "23:45",
+            "w": 24,
+            "c": 123
+          },
+          {
+            "timeKey": "23:50",
+            "w": 10,
+            "c": 51
+          },
+          {
+            "timeKey": "23:55",
+            "w": 8,
+            "c": 47
+          }
+        ],
+        "id": 364
+      },
+      {
+        "date": "2025-10-03",
+        "filePath": "05 Areas/Writing/Card World/Outline.md",
+        "wordCountStart": 65,
+        "charCountStart": 363,
+        "changes": [],
+        "id": 365
+      },
+      {
+        "date": "2025-10-03",
+        "filePath": "05 Areas/Writing/Poems/Complete/ashes and dust.md",
+        "wordCountStart": 258,
+        "charCountStart": 1217,
+        "changes": [],
+        "id": 366
+      },
+      {
+        "date": "2025-10-03",
+        "filePath": "05 Areas/Writing/Card World/Scenes/01.md",
+        "wordCountStart": 1566,
+        "charCountStart": 8146,
+        "changes": [],
+        "id": 367
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "05 Areas/Writing/Poems/Draft/ash and dust.md",
+        "wordCountStart": 1047,
+        "charCountStart": 4939,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": -1047,
+            "c": -4939
+          }
+        ],
+        "id": 370
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "05 Areas/Writing/Poems/Draft/sand castle.md",
+        "wordCountStart": 203,
+        "charCountStart": 986,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": -203,
+            "c": -986
+          }
+        ],
+        "id": 371
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "04 Self Main Notes/1.1 The process of writing helps me understand my thoughts.md",
+        "wordCountStart": 94,
+        "charCountStart": 549,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 86,
+            "c": 467
+          },
+          {
+            "timeKey": "15:45",
+            "w": 10,
+            "c": 54
+          }
+        ],
+        "id": 372
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "04 Self Main Notes/1.1a Expressing my thoughts to another person helps me understand my true feelings.md",
+        "wordCountStart": 105,
+        "charCountStart": 614,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 125,
+            "c": 657
+          }
+        ],
+        "id": 373
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "06 Resources/Writing/Poems/Draft/ash and dust.md",
+        "wordCountStart": 1047,
+        "charCountStart": 4939,
+        "changes": [],
+        "id": 374
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "06 Resources/Writing/Poems/Complete/ash and dust.md",
+        "wordCountStart": 258,
+        "charCountStart": 1217,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 1,
+            "c": 0
+          },
+          {
+            "timeKey": "16:00",
+            "w": -1,
+            "c": -4
+          },
+          {
+            "timeKey": "16:05",
+            "w": 33,
+            "c": 162
+          },
+          {
+            "timeKey": "16:10",
+            "w": -19,
+            "c": -81
+          }
+        ],
+        "id": 375
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/2025 Project Log.md",
+        "wordCountStart": 224,
+        "charCountStart": 1401,
+        "changes": [],
+        "id": 376
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/2025-06-08.md",
+        "wordCountStart": 1578,
+        "charCountStart": 7927,
+        "changes": [],
+        "id": 377
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/A System for Writing.md",
+        "wordCountStart": 38,
+        "charCountStart": 294,
+        "changes": [],
+        "id": 378
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/brainstorm more poems.md",
+        "wordCountStart": 354,
+        "charCountStart": 1633,
+        "changes": [],
+        "id": 379
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/AI thoughts.md",
+        "wordCountStart": 179,
+        "charCountStart": 879,
+        "changes": [],
+        "id": 380
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/Changelog.md",
+        "wordCountStart": 1275,
+        "charCountStart": 6087,
+        "changes": [],
+        "id": 381
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/fleeting.md",
+        "wordCountStart": 114,
+        "charCountStart": 532,
+        "changes": [],
+        "id": 382
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/Idea for Story.md",
+        "wordCountStart": 274,
+        "charCountStart": 1747,
+        "changes": [],
+        "id": 383
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/June Inbox.md",
+        "wordCountStart": 101,
+        "charCountStart": 579,
+        "changes": [],
+        "id": 384
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/Nature of Storytelling.md",
+        "wordCountStart": 586,
+        "charCountStart": 3207,
+        "changes": [],
+        "id": 385
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/Notes from Thinking, Fast and Slow.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 386
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/nothingmore.md",
+        "wordCountStart": 45,
+        "charCountStart": 234,
+        "changes": [],
+        "id": 387
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/smart enough.md",
+        "wordCountStart": 18,
+        "charCountStart": 82,
+        "changes": [],
+        "id": 388
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/temp poem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 389
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/testing main.md",
+        "wordCountStart": 166,
+        "charCountStart": 1020,
+        "changes": [],
+        "id": 390
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "01 Inbox/Tracker.md",
+        "wordCountStart": 26,
+        "charCountStart": 142,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": -26,
+            "c": -142
+          }
+        ],
+        "id": 391
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Vault.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 392
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "ideas.md",
+        "wordCountStart": 36,
+        "charCountStart": 207,
+        "changes": [],
+        "id": 393
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Home.md",
+        "wordCountStart": 2,
+        "charCountStart": 9,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": -2,
+            "c": -9
+          }
+        ],
+        "id": 394
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "hello, goodbye v3.md",
+        "wordCountStart": 262,
+        "charCountStart": 1227,
+        "changes": [],
+        "id": 395
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Changelog.md",
+        "wordCountStart": 205,
+        "charCountStart": 1119,
+        "changes": [],
+        "id": 396
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Aug 10, 2025.md",
+        "wordCountStart": 335,
+        "charCountStart": 1585,
+        "changes": [],
+        "id": 397
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Annie manual.md",
+        "wordCountStart": 203,
+        "charCountStart": 1088,
+        "changes": [],
+        "id": 398
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "04 Self Main Notes/1.1 The process of writing helps me understand my thoughts.md",
+        "wordCountStart": 190,
+        "charCountStart": 1070,
+        "changes": [],
+        "id": 399
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "06 Resources/Writing/Poems/Draft/ash and dust.md",
+        "wordCountStart": 1047,
+        "charCountStart": 4939,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 249,
+            "c": 1183
+          }
+        ],
+        "id": 400
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "06 Resources/Writing/Poems/Complete/ash and dust.md",
+        "wordCountStart": 272,
+        "charCountStart": 1294,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:55",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "17:00",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "17:05",
+            "w": 22,
+            "c": 95
+          },
+          {
+            "timeKey": "17:10",
+            "w": 29,
+            "c": 124
+          },
+          {
+            "timeKey": "17:15",
+            "w": -55,
+            "c": -241
+          },
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": -6
+          },
+          {
+            "timeKey": "17:25",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "17:30",
+            "w": 0,
+            "c": 22
+          },
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 4
+          }
+        ],
+        "id": 401
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "06 Resources/Writing/Poems/Complete/ash and dust.md",
+        "wordCountStart": 271,
+        "charCountStart": 1296,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 36,
+            "c": 186
+          }
+        ],
+        "id": 402
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "04 Self Main Notes/1.1 The process of writing helps me understand my thoughts.md",
+        "wordCountStart": 190,
+        "charCountStart": 1070,
+        "changes": [],
+        "id": 403
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "06 Resources/Writing/Poems/Draft/ash and dust.md",
+        "wordCountStart": 1296,
+        "charCountStart": 6122,
+        "changes": [],
+        "id": 404
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Annie manual.md",
+        "wordCountStart": 203,
+        "charCountStart": 1088,
+        "changes": [],
+        "id": 405
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "06 Resources/Pixel Art/References.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 25,
+            "c": 187
+          }
+        ],
+        "id": 406
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/💌 The Lost Toys Club.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 407
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/00 Notes/00 Notes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 408
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/V3 The Lost Toys Club/Brainstorm.md",
+        "wordCountStart": 211,
+        "charCountStart": 1270,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 28,
+            "c": 137
+          },
+          {
+            "timeKey": "16:10",
+            "w": -2,
+            "c": -3
+          }
+        ],
+        "id": 409
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Changelog.md",
+        "wordCountStart": 120,
+        "charCountStart": 952,
+        "changes": [
+          {
+            "timeKey": "15:50",
+            "w": -13,
+            "c": 30
+          },
+          {
+            "timeKey": "15:55",
+            "w": 2,
+            "c": 25
+          }
+        ],
+        "id": 410
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/Outline 2.md",
+        "wordCountStart": 562,
+        "charCountStart": 3706,
+        "changes": [],
+        "id": 411
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 412
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/About.md",
+        "wordCountStart": 104,
+        "charCountStart": 652,
+        "changes": [],
+        "id": 413
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/05 Writing/Draft.md",
+        "wordCountStart": 581,
+        "charCountStart": 2955,
+        "changes": [],
+        "id": 414
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/Games.md",
+        "wordCountStart": 71,
+        "charCountStart": 407,
+        "changes": [],
+        "id": 415
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/Brainstorm.md",
+        "wordCountStart": 4208,
+        "charCountStart": 23773,
+        "changes": [],
+        "id": 416
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/01 Overview/Outline.md",
+        "wordCountStart": 533,
+        "charCountStart": 2905,
+        "changes": [],
+        "id": 417
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/02 Plot and Structure/Story Overview.md",
+        "wordCountStart": 87,
+        "charCountStart": 590,
+        "changes": [],
+        "id": 418
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/02 Plot and Structure/Writing Practice.md",
+        "wordCountStart": 1057,
+        "charCountStart": 5315,
+        "changes": [],
+        "id": 419
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/03 Characters/Asher.md",
+        "wordCountStart": 501,
+        "charCountStart": 5296,
+        "changes": [],
+        "id": 420
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/03 Characters/Overview.md",
+        "wordCountStart": 101,
+        "charCountStart": 563,
+        "changes": [],
+        "id": 421
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/04 World and Systems/04 World and Systems.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 422
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/Emotional Outline.md",
+        "wordCountStart": 29,
+        "charCountStart": 169,
+        "changes": [],
+        "id": 423
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/Outline.md",
+        "wordCountStart": 6229,
+        "charCountStart": 31735,
+        "changes": [],
+        "id": 424
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Archive/Hotel/Hotel.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 425
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "06 Resources/Writing/Poems/Draft/Deep Sea Dreams.md",
+        "wordCountStart": 2122,
+        "charCountStart": 11468,
+        "changes": [],
+        "id": 426
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "06 Resources/Writing/Poems/Draft/Deep Sea Dreams - Poem Version.md",
+        "wordCountStart": 1004,
+        "charCountStart": 5185,
+        "changes": [],
+        "id": 427
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/Deep Sea Dreams - Poem Version1.md",
+        "wordCountStart": 1004,
+        "charCountStart": 5185,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": -1004,
+            "c": -5185
+          }
+        ],
+        "id": 428
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/V3 The Lost Toys Club/V3 The Lost Toys Club.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 429
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/one option/one option.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 430
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/option one/About.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 93,
+            "c": 572
+          },
+          {
+            "timeKey": "17:35",
+            "w": 21,
+            "c": 147
+          }
+        ],
+        "id": 431
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "05 Active Projects/option one/Scenes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 22,
+            "c": 108
+          }
+        ],
+        "id": 432
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "05 Active Projects/option one/About.md",
+        "wordCountStart": 114,
+        "charCountStart": 719,
+        "changes": [],
+        "id": 433
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "06 Resources/Rick/About.md",
+        "wordCountStart": 19,
+        "charCountStart": 152,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 2,
+            "c": 10
+          }
+        ],
+        "id": 434
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "06 Resources/Rick/Together.md",
+        "wordCountStart": 230,
+        "charCountStart": 1291,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 8,
+            "c": 43
+          },
+          {
+            "timeKey": "22:05",
+            "w": 25,
+            "c": 171
+          },
+          {
+            "timeKey": "22:25",
+            "w": 11,
+            "c": 69
+          },
+          {
+            "timeKey": "23:10",
+            "w": 31,
+            "c": 172
+          },
+          {
+            "timeKey": "23:15",
+            "w": 29,
+            "c": 150
+          },
+          {
+            "timeKey": "23:25",
+            "w": 6,
+            "c": 32
+          }
+        ],
+        "id": 435
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "Annie manual.md",
+        "wordCountStart": 450,
+        "charCountStart": 2292,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 45,
+            "c": 258
+          },
+          {
+            "timeKey": "22:40",
+            "w": 34,
+            "c": 199
+          },
+          {
+            "timeKey": "23:00",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 436
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "06 Resources/Rick/Letters.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 33,
+            "c": 153
+          },
+          {
+            "timeKey": "00:05",
+            "w": 66,
+            "c": 351
+          },
+          {
+            "timeKey": "22:40",
+            "w": 22,
+            "c": 119
+          },
+          {
+            "timeKey": "22:45",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "23:00",
+            "w": 15,
+            "c": 77
+          },
+          {
+            "timeKey": "23:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:10",
+            "w": 4,
+            "c": 11
+          },
+          {
+            "timeKey": "23:15",
+            "w": 41,
+            "c": 203
+          },
+          {
+            "timeKey": "23:20",
+            "w": 107,
+            "c": 495
+          },
+          {
+            "timeKey": "23:25",
+            "w": 87,
+            "c": 539
+          },
+          {
+            "timeKey": "23:30",
+            "w": 117,
+            "c": 579
+          },
+          {
+            "timeKey": "23:35",
+            "w": 147,
+            "c": 874
+          },
+          {
+            "timeKey": "23:40",
+            "w": 151,
+            "c": 731
+          },
+          {
+            "timeKey": "23:45",
+            "w": 69,
+            "c": 323
+          },
+          {
+            "timeKey": "23:50",
+            "w": 67,
+            "c": 365
+          },
+          {
+            "timeKey": "23:55",
+            "w": 73,
+            "c": 341
+          }
+        ],
+        "id": 437
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "06 Resources/Writing/Grave of the Gods/Brainstorm.md",
+        "wordCountStart": 1112,
+        "charCountStart": 6775,
+        "changes": [
+          {
+            "timeKey": "23:00",
+            "w": 15,
+            "c": 89
+          },
+          {
+            "timeKey": "23:05",
+            "w": 67,
+            "c": 358
+          }
+        ],
+        "id": 438
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "01 Inbox/smart enough.md",
+        "wordCountStart": 18,
+        "charCountStart": 82,
+        "changes": [],
+        "id": 439
+      },
+      {
+        "date": "2025-10-16",
+        "filePath": "Annie manual.md",
+        "wordCountStart": 529,
+        "charCountStart": 2751,
+        "changes": [],
+        "id": 440
+      },
+      {
+        "date": "2025-10-16",
+        "filePath": "06 Resources/Rick/Letters.md",
+        "wordCountStart": 1001,
+        "charCountStart": 5173,
+        "changes": [
+          {
+            "timeKey": "00:05",
+            "w": 20,
+            "c": 121
+          },
+          {
+            "timeKey": "00:10",
+            "w": 83,
+            "c": 458
+          },
+          {
+            "timeKey": "00:15",
+            "w": 10,
+            "c": 65
+          },
+          {
+            "timeKey": "00:20",
+            "w": 120,
+            "c": 609
+          },
+          {
+            "timeKey": "00:25",
+            "w": 142,
+            "c": 735
+          },
+          {
+            "timeKey": "00:30",
+            "w": 163,
+            "c": 791
+          },
+          {
+            "timeKey": "00:35",
+            "w": 92,
+            "c": 477
+          },
+          {
+            "timeKey": "00:40",
+            "w": 82,
+            "c": 399
+          },
+          {
+            "timeKey": "00:45",
+            "w": 78,
+            "c": 383
+          },
+          {
+            "timeKey": "00:50",
+            "w": 128,
+            "c": 590
+          },
+          {
+            "timeKey": "00:55",
+            "w": 90,
+            "c": 433
+          },
+          {
+            "timeKey": "01:00",
+            "w": 150,
+            "c": 684
+          },
+          {
+            "timeKey": "01:05",
+            "w": 98,
+            "c": 430
+          },
+          {
+            "timeKey": "17:20",
+            "w": 74,
+            "c": 403
+          },
+          {
+            "timeKey": "17:25",
+            "w": 52,
+            "c": 273
+          },
+          {
+            "timeKey": "17:30",
+            "w": 39,
+            "c": 161
+          },
+          {
+            "timeKey": "18:20",
+            "w": 52,
+            "c": 278
+          },
+          {
+            "timeKey": "18:25",
+            "w": 15,
+            "c": 62
+          },
+          {
+            "timeKey": "18:30",
+            "w": 9,
+            "c": 42
+          },
+          {
+            "timeKey": "18:35",
+            "w": 10,
+            "c": 48
+          },
+          {
+            "timeKey": "18:40",
+            "w": 4,
+            "c": 15
+          },
+          {
+            "timeKey": "19:00",
+            "w": 10,
+            "c": 51
+          },
+          {
+            "timeKey": "19:35",
+            "w": 32,
+            "c": 167
+          },
+          {
+            "timeKey": "19:40",
+            "w": 16,
+            "c": 80
+          },
+          {
+            "timeKey": "19:45",
+            "w": 42,
+            "c": 220
+          },
+          {
+            "timeKey": "19:50",
+            "w": 23,
+            "c": 101
+          },
+          {
+            "timeKey": "19:55",
+            "w": 22,
+            "c": 106
+          }
+        ],
+        "id": 441
+      },
+      {
+        "date": "2025-10-16",
+        "filePath": "06 Resources/Writing/Poems/Draft/Deep Sea Dreams.md",
+        "wordCountStart": 2122,
+        "charCountStart": 11468,
+        "changes": [],
+        "id": 442
+      },
+      {
+        "date": "2025-10-16",
+        "filePath": "01 Inbox/smart enough.md",
+        "wordCountStart": 18,
+        "charCountStart": 82,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 34,
+            "c": 178
+          }
+        ],
+        "id": 443
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "01 Inbox/smart enough.md",
+        "wordCountStart": 52,
+        "charCountStart": 260,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 35,
+            "c": 161
+          }
+        ],
+        "id": 444
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "Annie manual.md",
+        "wordCountStart": 529,
+        "charCountStart": 2751,
+        "changes": [],
+        "id": 445
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "05 Active Projects/option one/About.md",
+        "wordCountStart": 114,
+        "charCountStart": 719,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 33,
+            "c": 221
+          }
+        ],
+        "id": 446
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "05 Active Projects/option one/About.md",
+        "wordCountStart": 147,
+        "charCountStart": 940,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 30,
+            "c": 216
+          },
+          {
+            "timeKey": "18:10",
+            "w": 14,
+            "c": 98
+          },
+          {
+            "timeKey": "18:15",
+            "w": 10,
+            "c": 59
+          },
+          {
+            "timeKey": "22:20",
+            "w": 22,
+            "c": 190
+          }
+        ],
+        "id": 449
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "01 Inbox/smart enough.md",
+        "wordCountStart": 87,
+        "charCountStart": 421,
+        "changes": [],
+        "id": 450
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "01 Inbox/smart enough.md",
+        "wordCountStart": 87,
+        "charCountStart": 421,
+        "changes": [],
+        "id": 453
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "05 Active Projects/option one/story.md",
+        "wordCountStart": 57,
+        "charCountStart": 300,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 23,
+            "c": 126
+          },
+          {
+            "timeKey": "19:20",
+            "w": 5,
+            "c": 33
+          }
+        ],
+        "id": 454
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "05 Active Projects/option one/About.md",
+        "wordCountStart": 223,
+        "charCountStart": 1503,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 19,
+            "c": 173
+          },
+          {
+            "timeKey": "16:15",
+            "w": 18,
+            "c": 145
+          },
+          {
+            "timeKey": "16:20",
+            "w": 23,
+            "c": 244
+          },
+          {
+            "timeKey": "16:25",
+            "w": 16,
+            "c": 123
+          }
+        ],
+        "id": 455
+      },
+      {
+        "date": "2025-10-27",
+        "filePath": "05 Active Projects/option one/story.md",
+        "wordCountStart": 85,
+        "charCountStart": 459,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 31,
+            "c": 150
+          }
+        ],
+        "id": 456
+      },
+      {
+        "date": "2025-10-27",
+        "filePath": "05 Active Projects/option one/About.md",
+        "wordCountStart": 299,
+        "charCountStart": 2188,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 16,
+            "c": 118
+          },
+          {
+            "timeKey": "18:50",
+            "w": 5,
+            "c": 47
+          }
+        ],
+        "id": 457
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "05 Active Projects/option one/About.md",
+        "wordCountStart": 320,
+        "charCountStart": 2353,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:35",
+            "w": 6,
+            "c": 43
+          }
+        ],
+        "id": 458
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "05 Active Projects/option one/story.md",
+        "wordCountStart": 116,
+        "charCountStart": 609,
+        "changes": [],
+        "id": 459
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "01 Inbox/smart enough.md",
+        "wordCountStart": 127,
+        "charCountStart": 619,
+        "changes": [
+          {
+            "timeKey": "13:55",
+            "w": 10,
+            "c": 115
+          },
+          {
+            "timeKey": "14:00",
+            "w": 22,
+            "c": 239
+          },
+          {
+            "timeKey": "14:10",
+            "w": 10,
+            "c": 43
+          },
+          {
+            "timeKey": "14:15",
+            "w": 50,
+            "c": 332
+          },
+          {
+            "timeKey": "14:20",
+            "w": 84,
+            "c": 444
+          },
+          {
+            "timeKey": "14:25",
+            "w": 15,
+            "c": 89
+          },
+          {
+            "timeKey": "14:40",
+            "w": 41,
+            "c": 225
+          },
+          {
+            "timeKey": "14:45",
+            "w": 31,
+            "c": 177
+          },
+          {
+            "timeKey": "14:50",
+            "w": 38,
+            "c": 243
+          },
+          {
+            "timeKey": "14:55",
+            "w": 22,
+            "c": 103
+          },
+          {
+            "timeKey": "15:00",
+            "w": 101,
+            "c": 517
+          },
+          {
+            "timeKey": "15:05",
+            "w": 109,
+            "c": 628
+          },
+          {
+            "timeKey": "15:10",
+            "w": 27,
+            "c": 170
+          },
+          {
+            "timeKey": "15:15",
+            "w": 23,
+            "c": 105
+          },
+          {
+            "timeKey": "15:20",
+            "w": 48,
+            "c": 461
+          },
+          {
+            "timeKey": "15:25",
+            "w": 50,
+            "c": 247
+          },
+          {
+            "timeKey": "15:30",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 460
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "99 Archive/Unfinished Thoughts/Thoughts/Story Ideas.md",
+        "wordCountStart": 827,
+        "charCountStart": 4404,
+        "changes": [],
+        "id": 461
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "06 Resources/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 523,
+        "charCountStart": 3047,
+        "changes": [],
+        "id": 462
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "06 Resources/06 Areas/Ideas/Stories/Story Ideas.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 463
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "99 Archive/References and Tips/poems I like.md",
+        "wordCountStart": 3389,
+        "charCountStart": 18814,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 121,
+            "c": 668
+          }
+        ],
+        "id": 464
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "Annie manual.md",
+        "wordCountStart": 529,
+        "charCountStart": 2751,
+        "changes": [],
+        "id": 465
+      },
+      {
+        "date": "2025-10-28",
+        "filePath": "06 Resources/Rick/Together.md",
+        "wordCountStart": 536,
+        "charCountStart": 2907,
+        "changes": [],
+        "id": 466
+      },
+      {
+        "date": "2025-10-29",
+        "filePath": "01 Inbox/smart enough.md",
+        "wordCountStart": 808,
+        "charCountStart": 4758,
+        "changes": [],
+        "id": 471
+      },
+      {
+        "date": "2025-10-29",
+        "filePath": "06 Resources/Writing/Poems/Draft/sleep for the night.md",
+        "wordCountStart": 641,
+        "charCountStart": 3508,
+        "changes": [
+          {
+            "timeKey": "13:55",
+            "w": 0,
+            "c": -3
+          },
+          {
+            "timeKey": "14:00",
+            "w": 1,
+            "c": 29
+          },
+          {
+            "timeKey": "14:05",
+            "w": 20,
+            "c": 108
+          }
+        ],
+        "id": 472
+      }
+    ]
+  }
+}
