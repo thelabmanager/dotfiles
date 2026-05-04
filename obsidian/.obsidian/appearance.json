@@ -1,8 +1,8 @@
 {
   "theme": "obsidian",
   "accentColor": "#c482bb",
-  "cssTheme": "Tokyo Night",
-  "baseFontSize": 19,
+  "cssTheme": "Primary",
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
   "textFontFamily": "Hack,Arial",
   "interfaceFontFamily": "Hack",

@@ -99,42 +99,6 @@
       "key": "/"
     }
   ],
-  "note-refactor-obsidian:app:split-note-by-heading-h1": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
-  "file-explorer:open": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
-  "workspace:edit-file-title": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "buttons:button-maker": [
     {
       "modifiers": [
@@ -174,43 +138,7 @@
     }
   ],
   "editor:delete-paragraph": [],
-  "quickadd:choice:995c93c3-15a4-4d90-adb7-7a19f402df92": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
-  "quickadd:choice:46833328-8b41-457b-abae-f7221782554e": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
-  "quickadd:choice:fca4d28a-c449-412c-a0e3-ead985389764": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "obsidian-completr:completr-bypass-tab-key": [],
-  "quickadd:choice:bbda9d36-0cdf-45dd-8f62-bcb27bcc7bb7": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "Z"
-    }
-  ],
   "workspace:close": [
     {
       "modifiers": [
@@ -219,16 +147,177 @@
       "key": "W"
     }
   ],
-  "quickadd:choice:bc28a0b8-a129-4455-ac92-22a6facfffd4": [
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "quickadd:choice:c07dcf49-8cb6-46f5-80d8-15f8e238658a": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "Q"
+    }
+  ],
+  "quickadd:choice:9f83f397-1ee8-4143-84cf-79e405ff1991": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "E"
+    }
+  ],
+  "quickadd:choice:950a1a52-0556-4656-bd45-6fa784dc2125": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "W"
+    }
+  ],
+  "quickadd:choice:ffe61ff9-b90a-4ed8-b70d-0958ae148709": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "R"
+    }
+  ],
+  "quickadd:choice:84c1c22a-50a1-48e5-8b94-112c10afbe5e": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "T"
+    }
+  ],
+  "quickadd:choice:7bc46941-dcfe-40e5-bd4a-54e008a0ef76": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "S"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Backspace"
+    }
+  ],
+  "workspace:edit-file-title": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "quickadd:choice:811476b3-83c5-41be-a0ec-5dee5e61f6bc": [
     {
       "modifiers": [
         "Alt",
         "Mod"
       ],
-      "key": "A"
+      "key": "R"
     }
   ],
-  "quickadd:choice:9f83f397-1ee8-4143-84cf-79e405ff1991": [
+  "quickadd:choice:d1504c04-57f0-45dd-8a12-eae35cdfe9bc": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "quickadd:choice:69188b3d-64e2-46c0-ab41-404bce586dde": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "quickadd:choice:d22643e0-5554-4ca9-b9fd-5c461494652b": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "quickadd:choice:b9e90dba-74f6-4c61-9299-774b85287e30": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "quickadd:choice:3be03a00-a4e7-4fa8-9d0e-ed72e621c0e9": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "quickadd:choice:330476f9-d8ef-497f-acf4-230082deafaf": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "obsidian-outliner:system-info": [],
+  "quickadd:choice:7e58a0ae-42ab-4d11-b9eb-4faa0dd60b0d": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "quickadd:choice:794f1d48-5b03-4cbf-897b-092a0ae30d30": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "quickadd:choice:a2a43c7e-f5d2-49b9-aa8f-a5cbdbad0f06": [
     {
       "modifiers": [
         "Alt",
@@ -237,13 +326,40 @@
       "key": "Q"
     }
   ],
-  "quickadd:choice:84c1c22a-50a1-48e5-8b94-112c10afbe5e": [
+  "quickadd:choice:5736ccf6-09c7-4fa3-a673-dc10a0676a41": [
     {
       "modifiers": [
         "Alt",
         "Mod"
       ],
-      "key": "W"
+      "key": "L"
+    }
+  ],
+  "quickadd:choice:bc5b29b9-632d-4f1b-9e79-501fa8a29da3": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "quickadd:choice:46fad3b6-9818-4c7a-a0c8-a4c257f3d0cb": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "quickadd:choice:a921c2ca-0a8b-4885-8ac1-3a40748a164d": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
     }
   ]
 }

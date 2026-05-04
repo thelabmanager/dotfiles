@@ -48,6 +48,7 @@
     "projectID": "number",
     "status": "text",
     "priority": "number",
-    "excalidraw-embed-md": "checkbox"
+    "excalidraw-embed-md": "checkbox",
+    "TQ_show_toolbar": "checkbox"
   }
 }

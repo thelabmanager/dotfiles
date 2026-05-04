@@ -1,211 +1,162 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "c336237aec66cb1d",
     "type": "split",
     "children": [
       {
-        "id": "ffaa5059548018ff",
+        "id": "842d722bddc038a2",
         "type": "tabs",
-        "dimension": 35.20616221114634,
+        "dimension": 24.770351599619893,
         "children": [
           {
-            "id": "776e545df4425efa",
+            "id": "a83b1188d448ab3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Active Projects/option one/About.md",
+                "file": "04 Projects/The Lost Toys Club/Story Notes/0 Inbox.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "0 Inbox"
             }
           },
           {
-            "id": "e8d3572e160d093e",
+            "id": "465c92297b03bef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Resources/Rick/Together.md",
+                "file": "07 Reviews/02 Monthly/2026-04.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Together"
-            }
-          },
-          {
-            "id": "9ff58e090ce38d46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annie manual.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Annie manual"
-            }
-          },
-          {
-            "id": "d7575a7ddfaa510b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Active Projects/option one/About.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "About"
-            }
-          },
-          {
-            "id": "4160ad6e035f1a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 Archive/Unfinished Thoughts/Thoughts/Story Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Story Ideas"
-            }
-          },
-          {
-            "id": "12b7d4a83b2f78bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Resources/Ideas/Stories/Story Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Story Ideas"
-            }
-          },
-          {
-            "id": "85575a10a8cd061f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 Archive/References and Tips/poems I like.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "poems I like"
+              "title": "2026-04"
             }
           }
         ]
       },
       {
-        "id": "1d5090c26a8a2e13",
+        "id": "41471b68cae3a532",
         "type": "tabs",
-        "dimension": 44.49478930675125,
+        "dimension": 35.12828634779854,
         "children": [
           {
-            "id": "5f8e45e2a8bda9bd",
+            "id": "450f2b9fe1a478ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Inbox/smart enough.md",
+                "file": "04 Projects/The Lost Toys Club/Draft/02 sophomores.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "smart enough"
-            }
-          },
-          {
-            "id": "09bbf3313bcf6b6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Active Projects/option one/story.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "story"
-            }
-          },
-          {
-            "id": "908aeb20b0a5777c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Resources/Writing/Poems/Draft/sleep for the night.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sleep for the night"
+              "title": "02 sophomores"
             }
           }
         ]
       },
       {
-        "id": "424af12178ef6ca0",
+        "id": "5c2838e77736e166",
         "type": "tabs",
-        "dimension": 20.2990484821024,
+        "dimension": 40.101362052581564,
         "children": [
           {
-            "id": "35e7e6c9fda5f955",
+            "id": "95ab833ffb5e8cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Resources/Writing/Poems/Complete/ash and dust.md",
+                "file": "04 Projects/The Lost Toys Club/Draft/01 welcome to the club.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "ash and dust"
+              "title": "01 welcome to the club"
             }
           },
           {
-            "id": "9b55b40699760e08",
+            "id": "b3bf3b8980fcdf4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Resources/Writing/Poems/Draft/Deep Sea Dreams.md",
+                "file": "04 Projects/The Lost Toys Club/Story Notes/0 Index.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Deep Sea Dreams"
+              "title": "0 Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e75d8ca77439741f",
+    "id": "3d7d40c46e332090",
     "type": "split",
     "children": [
       {
-        "id": "e23a02b204e72d75",
+        "id": "fee93bb256ba9b69",
         "type": "tabs",
         "children": [
           {
-            "id": "5fada666748a58e0",
+            "id": "96ff5c7ad6f998e1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -218,13 +169,13 @@
             }
           },
           {
-            "id": "0b66a062ceb6622e",
+            "id": "0fa1ce3d536bc561",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "rust",
-                "matchingCase": true,
+                "query": "north-star",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -235,7 +186,7 @@
             }
           },
           {
-            "id": "08d507778d9f92c3",
+            "id": "a1b465afb3deec25",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -245,17 +196,7 @@
             }
           },
           {
-            "id": "f084f7963f25c61c",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
-            "id": "09ee63158a9c6f6a",
+            "id": "f8935b82531847b0",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -265,32 +206,31 @@
             }
           },
           {
-            "id": "afbde464a013939a",
+            "id": "ec84beaacb2c57a2",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
+              "type": "recent-files",
               "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 281
   },
   "right": {
-    "id": "ee371838d4a30a94",
+    "id": "609d3946f7e3a931",
     "type": "split",
     "children": [
       {
-        "id": "cdbbeaee2d529456",
+        "id": "ec93336ceed19400",
         "type": "tabs",
         "children": [
           {
-            "id": "f324e6553e3d9429",
+            "id": "b5c01400f5ade406",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -300,34 +240,12 @@
             }
           },
           {
-            "id": "e51c17a08b261a97",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "371fa2ea796d2b9b",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "05 Areas/Writing/Card World"
-              },
-              "icon": "lucide-file",
-              "title": "Card World"
-            }
-          },
-          {
-            "id": "59fb58da1253e117",
+            "id": "12c3f6e81c388a29",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Resources/06 Areas/Writing/Poems/Complete/ash and dust.md",
+                "file": "2026-W6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,24 +255,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ash and dust"
+              "title": "Backlinks for 2026-W6"
             }
           },
           {
-            "id": "65b3d9ace8b392bc",
+            "id": "6b0af3fdfe7f5ab2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 Areas/06 Create (code, write, draw, etc)/Poems/Draft/holes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from holes"
             }
           },
           {
-            "id": "613a77de93a12d76",
+            "id": "d3c4eea8e3ee2d31",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -369,123 +288,133 @@
             }
           },
           {
-            "id": "c95353ec48045d61",
+            "id": "83453eef05461ecc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "1b282e234ddf82a0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Inbox/smart enough.md",
+                "file": "04 Areas/06 Create (code, write, draw, etc)/Poems/Draft/holes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of smart enough"
+              "title": "Outline of holes"
             }
           },
           {
-            "id": "9922efdd86c434d1",
+            "id": "0d7ee24f473180ac",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "journal-calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
+              "icon": "lucide-ghost",
+              "title": "journal-calendar"
+            }
+          },
+          {
+            "id": "ca3ee5ec80eae788",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
               "title": "Calendar"
-            }
-          },
-          {
-            "id": "a635fc46b2aee4eb",
-            "type": "leaf",
-            "state": {
-              "type": "id-side-panel",
-              "state": {},
-              "icon": "file-digit",
-              "title": "Notes by ID"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 434,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
-      "keep-the-rhythm:Word Count Stats": false,
-      "note-id:Open side panel": false,
-      "workspaces:Manage workspace layouts": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5f8e45e2a8bda9bd",
+  "active": "450f2b9fe1a478ff",
   "lastOpenFiles": [
-    "05 Active Projects/option one/story.md",
-    "06 Resources/Writing/Poems/Draft/sleep for the night.md",
-    "01 Inbox/smart enough.md",
-    "06 Resources/Manga Formatting.md",
-    "05 Active Projects/option one/About.md",
-    "06 Resources/Rick/Together.md",
-    "Annie manual.md",
-    "99 Archive/References and Tips/poems I like.md",
-    "99 Archive/Unfinished Thoughts/Thoughts/Story Ideas.md",
-    "06 Resources/Ideas/Stories/Story Ideas.md",
-    "06 Resources/06 Areas/Ideas/Stories/Story Ideas.md",
-    "06 Resources/06 Areas/Ideas/Stories",
-    "06 Resources/06 Areas/Ideas",
-    "06 Resources/06 Areas",
-    "01 Inbox/October 2025.md",
-    "06 Resources/Writing/Poems/Draft/close 2.md",
-    "06 Resources/Writing/Poems/Draft/try.md",
-    "06 Resources/Rick/Letters.md",
-    "06 Resources/Writing/Poems/Draft/Deep Sea Dreams.md",
-    "06 Resources/Rick/About.md",
-    "06 Resources/Writing/Grave of the Gods/Brainstorm.md",
-    "05 Active Projects/💌 The Lost Toys Club/V3 The Lost Toys Club/Outline.md",
-    "05 Active Projects/💌 The Lost Toys Club/V3 The Lost Toys Club/Scenes.md",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/Outline.md",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/Brainstorm.md",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/02 Plot and Structure/Writing Practice.md",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/03 Characters/Asher.md",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/Outline 2.md",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/05 Writing/Draft.md",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Factions and Cultures",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Technology and Tools",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Lore and History",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/02 Plot and Structure/Core Theme",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Locations",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Versions",
-    "05 Active Projects/💌 The Lost Toys Club/Archive/04 World and Systems/Systems",
-    "05 Active Projects/💌 Currently writing/💌 The Lost Toys Club/Untitled.canvas",
-    "06 Resources/Games/Framework.canvas",
-    "06 Resources/Writing/Yellow/Notes/Plot/Themes.canvas",
-    "06 Resources/Writing/Yellow/Notes/Characters/Relationships.canvas",
-    "05 Areas/Writing/Harvest/Untitled.canvas",
-    "05 Areas/Writing/Card World/Untitled.canvas",
-    "06 Resources/Habits and Human Behavior/Anterior_Tilt.jpg",
-    "06 Resources/Habits and Human Behavior/Stretches_Office.jpg",
-    "06 Resources/Habits and Human Behavior/Neck_Stretches.jpg",
+    "04 Projects/The Lost Toys Club/Story Notes/0 Inbox.md",
+    "04 Projects/The Lost Toys Club/Draft/02 sophomores.md",
+    "04 Projects/The Lost Toys Club/Draft/01 welcome to the club.md",
+    "04 Projects/The Lost Toys Club/Story Notes/0 Index.md",
+    "00 Inbox/2026-W18.md",
+    "00 Inbox/2026-W17.md",
+    "01 System/Interests/Log.md",
+    "00 Inbox/2026-W19.md",
+    "01 System/Interests/needlepoint.md",
+    "07 Reviews/Monthly/2026-05 Planning.md",
+    "Templates/Planning Monthly.md",
+    "01 System/Mindsweeper.md",
+    "Templates/QuickAdd/package-2026-05-04.quickadd.json",
+    "Templates/QuickAdd",
+    "Templates/Review Weekly.md",
+    "Templates/Planning Weekly.md",
+    "07 Reviews/02 Monthly/2026-04.md",
+    "07 Reviews/Monthly",
+    "Templates/Review Monthly.md",
+    "07 Reviews/02 Monthly/Untitled.md",
+    "07 Reviews/02 Monthly/2026-05.md",
+    "04 Projects/The Lost Toys Club/Inbox/note.md",
+    "05 References/Feelings for Poems/work.md",
+    "05 References/The Christophers.md",
+    "05 References/Professor Tim Wilson.md",
+    "00 Inbox/lines that I like.md",
+    "04 Projects/The Lost Toys Club/Draft/Index.md",
+    "04 Projects/The Lost Toys Club/Draft",
+    "04 Projects/The Lost Toys Club/old draft/Index.md",
+    "04 Projects/Index.md",
+    "04 Projects/The Lost Toys Club/Inbox",
+    "04 Projects/Stories/Yellow/Old Notes",
+    "04 Projects/Stories/Yellow/Draft",
+    "04 Projects/Stories/Dreamscape",
+    "04 Projects/Stories/Yellow",
+    "04 Projects/Stories",
+    "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Notes/Plot/Themes.canvas",
+    "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Notes/Characters/Relationships.canvas",
+    "03 Projects/Yellow/Old Notes/Notes/Characters/Relationships.canvas",
+    "06 Resources/7.1 Psychology and Human Behavior/Habits and Human Behavior/Anterior_Tilt.jpg",
+    "06 Resources/7.1 Psychology and Human Behavior/Habits and Human Behavior/Neck_Stretches.jpg",
+    "06 Resources/7.1 Psychology and Human Behavior/Habits and Human Behavior/Stretches_Office.jpg",
+    "00 Inbox/Ideas/Framework.canvas",
+    "03 Projects/Yellow/Old Notes/Notes/Plot/Themes.canvas",
     "99 Archive/Images/Pasted image 20241121183837.png",
     "99 Archive/Images/Pasted image 20241121183346.png",
     "99 Archive/Images/Pasted image 20240811213444.png",
     "99 Archive/Images/Pasted image 20250207213317.png",
     "99 Archive/Images/Pasted image 20250311001230.png",
     "99 Archive/Images/Pasted image 20240811213524.png",
-    "99 Archive/Images/Pasted image 20240811213349.png",
-    "05 Areas/Games/Framework.canvas",
-    "05 Areas/Writing/Yellow/Notes/Plot/Themes.canvas",
-    "05 Areas/Writing/Yellow/Notes/Characters/Relationships.canvas"
+    "99 Archive/Images/Pasted image 20240811213349.png"
   ]
 }

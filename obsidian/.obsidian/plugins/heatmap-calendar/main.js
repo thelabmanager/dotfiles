@@ -366,5 +366,3 @@ var HeatmapCalendar = class extends import_obsidian2.Plugin {
     });
   }
 };
-
-/* nosourcemap */

@@ -1,861 +1,443 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": null,
+  "selectedDraftVaultPath": "04 Projects/The Lost Toys Club/Draft/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
-      "start": "2025-10-29T17:06:50.891Z",
-      "total": 0,
+      "start": "2026-05-04T20:51:52.298Z",
+      "total": 3387,
       "drafts": {
-        "99 Archive/Writing/The Midnight Train/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Index.md": {
           "total": 0,
           "scenes": {
             "04 Scene": 0,
             "999 Padding": 0
           }
         },
-        "06 Resources/Writing/Dreamscape/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Draft/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Prologue": 0,
+            "Black": 0
+          }
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "04 Projects/The Lost Toys Club/Draft/Index.md": {
+          "total": 3387,
+          "scenes": {
+            "01 welcome to the club": 1776,
+            "02 sophomores": 1611
+          }
+        },
+        "04 Projects/Stories/Yellow/Old Notes/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "04 Projects/Stories/Yellow/Draft/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {}
         }
       }
     },
     {
-      "start": "2025-10-28T17:24:35.898Z",
-      "total": 0,
+      "start": "2026-05-03T17:52:45.667Z",
+      "total": 1366,
       "drafts": {
-        "99 Archive/Writing/Yellow/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Index.md": {
           "total": 0,
           "scenes": {
             "04 Scene": 0,
             "999 Padding": 0
           }
         },
-        "06 Resources/Writing/Dreamscape/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Draft/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Prologue": 0,
+            "Black": 0
+          }
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0
           }
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "04 Projects/The Lost Toys Club/Draft/Index.md": {
+          "total": 1366,
+          "scenes": {
+            "0.1 Prologue": 1366,
+            "1.0 the beginning": 0
+          }
+        },
+        "04 Projects/Stories/Yellow/Draft/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "04 Projects/Stories/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Stories/Yellow/Old Notes/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/The Lost Toys Club/old draft/Index.md": {
           "total": 0,
           "scenes": {}
         }
       }
     },
     {
-      "start": "2025-10-27T17:13:17.047Z",
+      "start": "2026-05-02T18:07:47.084Z",
       "total": 0,
       "drafts": {
-        "99 Archive/Writing/Yellow/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Draft/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Prologue": 0,
+            "Black": 0
+          }
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Index.md": {
           "total": 0,
           "scenes": {
             "04 Scene": 0,
             "999 Padding": 0
           }
         },
-        "06 Resources/Writing/Dreamscape/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "04 Projects/The Lost Toys Club/Draft/Index.md": {
           "total": 0,
           "scenes": {}
         }
       }
     },
     {
-      "start": "2025-10-23T19:07:00.189Z",
+      "start": "2026-05-01T18:59:24.529Z",
       "total": 0,
       "drafts": {
-        "99 Archive/Writing/Yellow/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Index.md": {
           "total": 0,
           "scenes": {
             "04 Scene": 0,
             "999 Padding": 0
           }
         },
-        "06 Resources/Writing/Dreamscape/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Draft/Index.md": {
           "total": 0,
           "scenes": {
-            "01 Dice Face": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2025-10-22T21:12:55.332Z",
-      "total": 0,
-      "drafts": {
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {
-            "04 Scene": 0,
-            "999 Padding": 0
+            "Prologue": 0,
+            "Black": 0
           }
         },
-        "06 Resources/Writing/Dreamscape/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0
           }
         },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "04 Projects/The Lost Toys Club/Draft/Index.md": {
           "total": 0,
           "scenes": {}
         }
       }
     },
     {
-      "start": "2025-10-19T15:58:55.000Z",
+      "start": "2026-04-30T21:58:28.849Z",
       "total": 0,
       "drafts": {
-        "99 Archive/Writing/Yellow/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Index.md": {
           "total": 0,
           "scenes": {
             "04 Scene": 0,
             "999 Padding": 0
           }
         },
-        "06 Resources/Writing/Dreamscape/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Draft/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Prologue": 0,
+            "Black": 0
+          }
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0
           }
         },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "04 Projects/The Lost Toys Club/Draft/Index.md": {
           "total": 0,
           "scenes": {}
         }
       }
     },
     {
-      "start": "2025-10-17T18:14:24.814Z",
-      "total": 0,
+      "start": "2026-04-28T00:55:35.524Z",
+      "total": 3,
       "drafts": {
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
         "06 Resources/Writing/Yellow/Index.md": {
           "total": 0,
-          "scenes": {
-            "04 Scene": 0,
-            "999 Padding": 0
-          }
+          "scenes": {}
         },
         "06 Resources/Writing/Dreamscape/Index.md": {
           "total": 0,
-          "scenes": {
-            "01 Dice Face": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2025-10-16T19:17:56.587Z",
-      "total": 0,
-      "drafts": {
-        "99 Archive/Writing/Yellow/Index.md": {
+          "scenes": {}
+        },
+        "04 Projects/Yellow/Old Notes/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/Dreamscape/Index.md": {
+        "04 Projects/Yellow/Draft/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
+        "04 Projects/Stories/Yellow/Old Notes/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "06 Resources/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Index.md": {
+        "04 Projects/Stories/Yellow/Old Notes/Index.md": {
           "total": 0,
           "scenes": {
             "04 Scene": 0,
             "999 Padding": 0
           }
         },
-        "06 Resources/Writing/Dreamscape/Index.md": {
+        "04 Projects/Stories/Yellow/Draft/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Prologue": 0,
+            "Black": 0
+          }
+        },
+        "04 Projects/Stories/The Lost Toys Club/Draft/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Stories/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0
           }
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "06 Resources/3.1 Writing/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-10-15T16:41:07.317Z",
-      "total": 0,
-      "drafts": {
-        "99 Archive/Writing/Dreamscape/Index.md": {
+        "06 Resources/3.1 Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/Yellow/Index.md": {
+        "06 Resources/Stories/Yellow/Old Notes/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {
-            "04 Scene": 0,
-            "999 Padding": 0
-          }
-        },
-        "06 Resources/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {
-            "01 Dice Face": 0
-          }
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-10-14T19:00:01.070Z",
-      "total": 2,
-      "drafts": {
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/06 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/06 Areas/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/06 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {
-            "04 Scene": 0,
-            "999 Padding": 0
-          }
-        },
-        "06 Resources/06 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {
-            "01 Dice Face": 0
-          }
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/Writing/Yellow/Index.md": {
+        "06 Resources/Stories/Yellow/Old Notes/Index.md": {
           "total": 2,
           "scenes": {
             "04 Scene": 0,
             "999 Padding": 2
           }
         },
-        "06 Resources/Writing/Dreamscape/Index.md": {
-          "total": 0,
+        "06 Resources/Stories/Yellow/Draft/Index.md": {
+          "total": 1,
           "scenes": {
-            "01 Dice Face": 0
+            "Prologue": 1,
+            "Black": 0
           }
-        }
-      }
-    },
-    {
-      "start": "2025-10-09T19:24:29.709Z",
-      "total": 2,
-      "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
+        },
+        "06 Resources/Stories/The Lost Toys Club/Draft/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
+        "06 Resources/Stories/The Midnight Train/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/06 Areas/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/06 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "06 Resources/06 Areas/Writing/Dreamscape/Index.md": {
+        "06 Resources/Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0
           }
         },
-        "06 Resources/06 Areas/Writing/Yellow/Index.md": {
+        "06 Resources/3.1 Writing/Stories/Yellow/Old Notes/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "06 Resources/3.1 Writing/Stories/Yellow/Old Notes/Index.md": {
           "total": 2,
           "scenes": {
             "04 Scene": 0,
             "999 Padding": 2
           }
-        }
-      }
-    },
-    {
-      "start": "2025-10-04T04:30:30.329Z",
-      "total": 0,
-      "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
+        "06 Resources/3.1 Writing/Stories/Yellow/Draft/Index.md": {
+          "total": 1,
           "scenes": {
-            "04 Scene": 0,
-            "999 Padding": 0
+            "Prologue": 1,
+            "Black": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "06 Resources/3.1 Writing/Stories/The Lost Toys Club/Draft/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "06 Resources/3.1 Writing/Stories/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "06 Resources/3.1 Writing/Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0
           }
         },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-10-04T01:42:00.017Z",
-      "total": 0,
-      "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Old Notes/Index.md": {
+          "total": 2,
           "scenes": {
             "04 Scene": 0,
-            "999 Padding": 0
+            "999 Padding": 2
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "06 Resources/3.1 Writing/3.7 Stories/Yellow/Draft/Index.md": {
+          "total": 1,
+          "scenes": {
+            "Prologue": 1,
+            "Black": 0
+          }
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/The Lost Toys Club/Draft/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "06 Resources/3.1 Writing/3.7 Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0
           }
         },
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
+        "04 Projects/The Lost Toys Club/Draft/Index.md": {
           "total": 0,
           "scenes": {}
         }
       }
     },
     {
-      "start": "2025-09-27T15:57:46.349Z",
+      "start": "2026-04-26T14:33:28.596Z",
       "total": 0,
       "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
+        "06 Resources/Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
+        "06 Resources/Writing/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "04 Projects/Yellow/Old Notes/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Yellow/Draft/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Stories/Yellow/Old Notes/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Stories/Yellow/Old Notes/Index.md": {
           "total": 0,
           "scenes": {
             "04 Scene": 0,
             "999 Padding": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "04 Projects/Stories/Yellow/Draft/Index.md": {
           "total": 0,
           "scenes": {
-            "01 Dice Face": 0
+            "Prologue": 0,
+            "Black": 0
           }
         },
-        "99 Archive/Writing/Dreamscape/Index.md": {
+        "04 Projects/Stories/The Midnight Train/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/Yellow/Index.md": {
+        "04 Projects/Stories/The Lost Toys Club/Draft/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-09-24T22:30:11.798Z",
-      "total": 0,
-      "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {
-            "04 Scene": 0,
-            "999 Padding": 0
-          }
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {
-            "01 Dice Face": 0
-          }
-        },
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-09-22T23:41:45.034Z",
-      "total": 0,
-      "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {
-            "04 Scene": 0,
-            "999 Padding": 0
-          }
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {
-            "01 Dice Face": 0
-          }
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-09-22T00:54:43.983Z",
-      "total": 0,
-      "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {
-            "04 Scene": 0,
-            "999 Padding": 0
-          }
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {
-            "01 Dice Face": 0
-          }
-        },
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-09-20T17:53:10.156Z",
-      "total": 0,
-      "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {
-            "04 Scene": 0,
-            "999 Padding": 0
-          }
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {
-            "01 Dice Face": 0
-          }
-        },
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-09-14T17:43:40.016Z",
-      "total": 0,
-      "drafts": {
-        "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {
-            "04 Scene": 0,
-            "999 Padding": 0
-          }
-        },
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "04 Projects/Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0
@@ -864,99 +446,84 @@
       }
     },
     {
-      "start": "2025-09-14T03:11:19.398Z",
+      "start": "2026-04-25T15:23:04.810Z",
       "total": 0,
       "drafts": {
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
+        "06 Resources/Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "06 Resources/Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Yellow/Old Notes/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Yellow/Draft/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Stories/Yellow/Old Notes/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Stories/Yellow/Old Notes/Index.md": {
           "total": 0,
           "scenes": {
             "04 Scene": 0,
             "999 Padding": 0
           }
         },
-        "05 Areas/Writing/The Midnight Train/Index.md": {
+        "04 Projects/Stories/Yellow/Draft/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Prologue": 0,
+            "Black": 0
+          }
+        },
+        "04 Projects/Stories/The Midnight Train/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "04 Projects/Stories/The Lost Toys Club/Draft/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "04 Projects/Stories/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0
           }
         },
-        "99 Archive/Writing/Yellow/Index.md": {
+        "03 Projects/Stories/Yellow/Old Notes/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
+        "03 Projects/Stories/Yellow/Draft/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "99 Archive/Writing/Dreamscape/Index.md": {
+        "03 Projects/Stories/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "03 Projects/Stories/The Lost Toys Club/Draft/Index.md": {
           "total": 0,
           "scenes": {}
         }
       }
     },
     {
-      "start": "2025-08-13T00:15:06.787Z",
+      "start": "2025-04-23T03:50:29.370Z",
       "total": 0,
       "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {
-            "04 Scene": 0,
-            "999 Padding": 0
-          }
-        },
-        "05 Areas/Writing/Dreamscape/Index.md": {
-          "total": 0,
-          "scenes": {
-            "01 Dice Face": 0
-          }
-        },
-        "99 Archive/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "99 Archive/Writing/Dreamscape/Index.md": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
         "99 Archive/Writing/Yellow/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-08-09T19:26:00.262Z",
-      "total": 0,
-      "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {
-            "01 Intro": 0,
-            "02 The Passenger": 0
-          }
-        },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "05 Areas/Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {
             "01 Prologue": 0,
@@ -966,7 +533,14 @@
             "999 Padding": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "99 Archive/Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "99 Archive/Writing/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0,
@@ -976,21 +550,14 @@
       }
     },
     {
-      "start": "2025-08-07T00:41:49.574Z",
+      "start": "2025-04-20T01:40:46.124Z",
       "total": 0,
       "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {
-            "01 Intro": 0,
-            "02 The Passenger": 0
-          }
-        },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "99 Archive/Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {
             "01 Prologue": 0,
@@ -1000,7 +567,14 @@
             "999 Padding": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "99 Archive/Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "99 Archive/Writing/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0,
@@ -1010,21 +584,14 @@
       }
     },
     {
-      "start": "2025-08-03T15:52:01.029Z",
+      "start": "2025-04-17T03:29:07.705Z",
       "total": 0,
       "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {
-            "01 Intro": 0,
-            "02 The Passenger": 0
-          }
-        },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "99 Archive/Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {
             "01 Prologue": 0,
@@ -1034,7 +601,14 @@
             "999 Padding": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "99 Archive/Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "99 Archive/Writing/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0,
@@ -1044,21 +618,14 @@
       }
     },
     {
-      "start": "2025-07-28T21:49:10.276Z",
+      "start": "2025-04-15T04:46:51.335Z",
       "total": 0,
       "drafts": {
-        "05 Areas/Writing/The Midnight Train/Index.md": {
-          "total": 0,
-          "scenes": {
-            "01 Intro": 0,
-            "02 The Passenger": 0
-          }
-        },
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "99 Archive/Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {
             "01 Prologue": 0,
@@ -1068,7 +635,14 @@
             "999 Padding": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "99 Archive/Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "99 Archive/Writing/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0,
@@ -1078,14 +652,14 @@
       }
     },
     {
-      "start": "2025-07-20T00:55:36.203Z",
+      "start": "2025-04-13T14:30:55.424Z",
       "total": 0,
       "drafts": {
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "99 Archive/Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {
             "01 Prologue": 0,
@@ -1095,14 +669,14 @@
             "999 Padding": 0
           }
         },
-        "05 Areas/Writing/The Midnight Train/Index.md": {
+        "99 Archive/Writing/The Midnight Train/Index.md": {
           "total": 0,
           "scenes": {
             "01 Intro": 0,
             "02 The Passenger": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "99 Archive/Writing/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0,
@@ -1112,14 +686,14 @@
       }
     },
     {
-      "start": "2025-07-12T11:44:37.834Z",
+      "start": "2025-04-12T16:11:34.877Z",
       "total": 0,
       "drafts": {
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "99 Archive/Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {
             "01 Prologue": 0,
@@ -1129,14 +703,14 @@
             "999 Padding": 0
           }
         },
-        "05 Areas/Writing/The Midnight Train/Index.md": {
+        "99 Archive/Writing/The Midnight Train/Index.md": {
           "total": 0,
           "scenes": {
             "01 Intro": 0,
             "02 The Passenger": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "99 Archive/Writing/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0,
@@ -1146,14 +720,14 @@
       }
     },
     {
-      "start": "2025-07-05T13:53:22.412Z",
+      "start": "2025-04-04T20:20:28.533Z",
       "total": 0,
       "drafts": {
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "99 Archive/Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {
             "01 Prologue": 0,
@@ -1163,14 +737,14 @@
             "999 Padding": 0
           }
         },
-        "05 Areas/Writing/The Midnight Train/Index.md": {
+        "99 Archive/Writing/The Midnight Train/Index.md": {
           "total": 0,
           "scenes": {
             "01 Intro": 0,
             "02 The Passenger": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "99 Archive/Writing/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0,
@@ -1180,14 +754,14 @@
       }
     },
     {
-      "start": "2025-07-04T17:37:04.964Z",
+      "start": "2025-04-03T11:42:27.253Z",
       "total": 0,
       "drafts": {
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "99 Archive/Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {
             "01 Prologue": 0,
@@ -1197,14 +771,14 @@
             "999 Padding": 0
           }
         },
-        "05 Areas/Writing/The Midnight Train/Index.md": {
+        "99 Archive/Writing/The Midnight Train/Index.md": {
           "total": 0,
           "scenes": {
             "01 Intro": 0,
             "02 The Passenger": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "99 Archive/Writing/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0,
@@ -1214,14 +788,14 @@
       }
     },
     {
-      "start": "2025-06-28T15:04:56.210Z",
+      "start": "2025-03-31T12:58:55.699Z",
       "total": 0,
       "drafts": {
-        "05 Areas/Writing/Yellow/Screenplay/Index.md": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "05 Areas/Writing/Yellow/Index.md": {
+        "99 Archive/Writing/Yellow/Index.md": {
           "total": 0,
           "scenes": {
             "01 Prologue": 0,
@@ -1231,14 +805,544 @@
             "999 Padding": 0
           }
         },
-        "05 Areas/Writing/The Midnight Train/Index.md": {
+        "99 Archive/Writing/The Midnight Train/Index.md": {
           "total": 0,
           "scenes": {
             "01 Intro": 0,
             "02 The Passenger": 0
           }
         },
-        "05 Areas/Writing/Dreamscape/Index.md": {
+        "99 Archive/Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-30T16:21:01.930Z",
+      "total": 0,
+      "drafts": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "99 Archive/Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "99 Archive/Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "99 Archive/Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-25T00:19:41.800Z",
+      "total": 0,
+      "drafts": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "99 Archive/Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "99 Archive/Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "99 Archive/Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-22T20:38:10.594Z",
+      "total": 0,
+      "drafts": {
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "99 Archive/Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "99 Archive/Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "99 Archive/Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-19T11:54:03.187Z",
+      "total": 2596,
+      "drafts": {
+        "Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        },
+        "Archive/Writing/Yellow/Index.md": {
+          "total": 1698,
+          "scenes": {
+            "01 Prologue": 284,
+            "02 last client": 1339,
+            "03 The neighbor previous door": 73,
+            "04 Scene": 0,
+            "999 Padding": 2
+          }
+        },
+        "Archive/Writing/The Midnight Train/Index.md": {
+          "total": 809,
+          "scenes": {
+            "01 Intro": 404,
+            "02 The Passenger": 405
+          }
+        },
+        "Archive/Writing/Dreamscape/Index.md": {
+          "total": 89,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 89
+          }
+        },
+        "Archive/Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "5 Archive/Writing/Yellow/Index.md": {
+          "total": 1698,
+          "scenes": {
+            "01 Prologue": 284,
+            "02 last client": 1339,
+            "03 The neighbor previous door": 73,
+            "04 Scene": 0,
+            "999 Padding": 2
+          }
+        },
+        "5 Archive/Writing/The Midnight Train/Index.md": {
+          "total": 809,
+          "scenes": {
+            "01 Intro": 404,
+            "02 The Passenger": 405
+          }
+        },
+        "5 Archive/Writing/Dreamscape/Index.md": {
+          "total": 89,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 89
+          }
+        },
+        "5 Archive/Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "99 Archive/Writing/Yellow/Index.md": {
+          "total": 1698,
+          "scenes": {
+            "01 Prologue": 284,
+            "02 last client": 1339,
+            "03 The neighbor previous door": 73,
+            "04 Scene": 0,
+            "999 Padding": 2
+          }
+        },
+        "99 Archive/Writing/The Midnight Train/Index.md": {
+          "total": 809,
+          "scenes": {
+            "01 Intro": 404,
+            "02 The Passenger": 405
+          }
+        },
+        "99 Archive/Writing/Dreamscape/Index.md": {
+          "total": 89,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 89
+          }
+        },
+        "99 Archive/Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-03-17T22:13:50.598Z",
+      "total": 0,
+      "drafts": {
+        "Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-07T05:12:18.114Z",
+      "total": 0,
+      "drafts": {
+        "Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-04T19:20:17.407Z",
+      "total": 2507,
+      "drafts": {
+        "Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Writing/Yellow/Index.md": {
+          "total": 1698,
+          "scenes": {
+            "01 Prologue": 284,
+            "02 last client": 1339,
+            "03 The neighbor previous door": 73,
+            "04 Scene": 0,
+            "999 Padding": 2
+          }
+        },
+        "Writing/The Midnight Train/Index.md": {
+          "total": 809,
+          "scenes": {
+            "01 Intro": 404,
+            "02 The Passenger": 405
+          }
+        },
+        "Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-03T23:38:07.890Z",
+      "total": 0,
+      "drafts": {
+        "Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-02-28T14:27:05.842Z",
+      "total": 0,
+      "drafts": {
+        "Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-02-24T00:13:51.509Z",
+      "total": 0,
+      "drafts": {
+        "Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-02-05T19:21:23.781Z",
+      "total": 0,
+      "drafts": {
+        "Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-02-05T03:06:44.440Z",
+      "total": 0,
+      "drafts": {
+        "Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "Writing/Poems/hopes and dreams/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "Writing/Dreamscape/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Dice Face": 0,
+            "02 Firefly": 0
+          }
+        },
+        "Writing/Yellow/Screenplay/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-01-30T01:24:17.542Z",
+      "total": 0,
+      "drafts": {
+        "Writing/Yellow/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Prologue": 0,
+            "02 last client": 0,
+            "03 The neighbor previous door": 0,
+            "04 Scene": 0,
+            "999 Padding": 0
+          }
+        },
+        "Writing/Poems/hopes and dreams/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Writing/The Midnight Train/Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 Intro": 0,
+            "02 The Passenger": 0
+          }
+        },
+        "Writing/Dreamscape/Index.md": {
           "total": 0,
           "scenes": {
             "01 Dice Face": 0,
@@ -1256,7 +1360,7 @@
   "countDeletionsForGoal": false,
   "keepSessionCount": 30,
   "sessionFile": "longform-sessions.json",
-  "numberScenes": true,
+  "numberScenes": false,
   "sceneTemplate": null,
   "waitForSync": false,
   "fallbackWaitEnabled": true,

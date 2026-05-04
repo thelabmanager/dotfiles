@@ -1,40 +1,42 @@
 {
-  "excludedTags": [],
-  "excludedFolders": [
-    "Templates",
-    "Scripts",
-    "00 Logs"
+  "excludedTags": [
+    "daily_log"
   ],
-  "excludedNameContains": [],
+  "excludedFolders": [
+    "Templates"
+  ],
+  "excludedNameContains": [
+    "Changelog"
+  ],
   "excludedExtensions": [],
   "outputFormat": "- [[link]]",
-  "separateOutputFormats": false,
+  "separateOutputFormats": true,
   "createdFormat": "- [[link]]",
   "modifiedFormat": "- [[link]]",
   "deletedFormat": "- [[path]]",
-  "timeFormat": "h:mm A",
+  "timeFormat": "LT",
   "autoEmbedAttachments": false,
   "autoCreateLogNote": false,
   "logNoteType": "daily",
   "writeInterval": 0,
   "combineCreatedAndModified": false,
   "autoRemoveDividers": true,
-  "autoCreateCreatedDivider": false,
-  "autoCreateModifiedDivider": false,
-  "autoCreateDeletedDivider": false,
+  "autoCreateCreatedDivider": true,
+  "autoCreateModifiedDivider": true,
+  "autoCreateDeletedDivider": true,
   "sortCreated": "none",
   "sortModified": "none",
   "sortDeleted": "none",
   "verboseModeEnabled": false,
-  "lastTrackedDate": "2025-10-29",
+  "lastTrackedDate": "2025-04-23",
   "trackedFiles": [
     {
-      "path": "06 Resources/Manga Formatting.md",
+      "path": "03 Projects/💌 Night school game/01 Overview/Outline.md",
       "matchesCriteria": true,
-      "supposedList": "created"
+      "supposedList": "modified"
     },
     {
-      "path": "06 Resources/Writing/Poems/Draft/sleep for the night.md",
+      "path": "03 Projects/💌 Night school game/00 Notes/Brainstorm.md",
       "matchesCriteria": true,
       "supposedList": "modified"
     }

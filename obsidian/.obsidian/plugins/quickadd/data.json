@@ -1,13 +1,14 @@
 {
   "choices": [
     {
-      "id": "9f83f397-1ee8-4143-84cf-79e405ff1991",
-      "name": "Capture - Add new main note",
+      "id": "d22643e0-5554-4ca9-b9fd-5c461494652b",
+      "name": "Inbox Quick - Capture",
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "03 Main Notes/{{VALUE:zid}} {{VALUE:title}}",
+      "captureTo": "{{GLOBAL_VAR:FolderInbox}}/{{DATE:YYYY-[W]WW}}",
       "captureToActiveFile": false,
+      "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
         "enabled": true,
         "createWithTemplate": false,
@@ -15,56 +16,18 @@
       },
       "format": {
         "enabled": true,
-        "format": "---\nzid: {{VALUE:zid}}\ntitle: {{VALUE:title}}\n---\n\n\n# {{VALUE:title}}\n\n\n\n---\n\n# References\n\nPrevious:\n- \n\nSee:\n- \n\n---\n\n# Notes\n\n- North (where does x come from, what is the origin of x, what group/category does x belong to, what causes x?)\n- East (What opposes x, what is x missing, what is the disadvantage of x, what could improve x?)\n- South (where can x lead to, what does x contribute to, and so...)\n- West (what is similar to x, what are other ways to say/do x?)\n\n\n"
+        "format": "- **{{DATE:LTS}}** | *{{VALUE:context}}* **:** {{VALUE:log}}"
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
+        "enabled": true,
+        "after": "## {{DATE:dddd, MMM Do}}",
+        "insertAtEnd": true,
         "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "prepend": false,
-      "task": false,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileOpening": {
-        "location": "split",
-        "direction": "vertical",
-        "focus": true,
-        "mode": "default"
-      }
-    },
-    {
-      "id": "84c1c22a-50a1-48e5-8b94-112c10afbe5e",
-      "name": "Capture - Add new self main note",
-      "type": "Capture",
-      "command": true,
-      "appendLink": false,
-      "captureTo": "04 Self Main Notes/{{VALUE:zid}} {{VALUE:title}}",
-      "captureToActiveFile": false,
-      "createFileIfItDoesntExist": {
-        "enabled": true,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": true,
-        "format": "---\nzid: {{VALUE:zid}}\ntitle: {{VALUE:title}}\n---\n\n\n# {{VALUE:title}}\n\n\n\n---\n\n# References\n\nPrevious:\n- \n\nSee:\n- \n\nMain Notes:\n- \n\n---\n\n# Notes\n\n- North (where does x come from, what is the origin of x, what group/category does x belong to, what causes x?)\n- East (What opposes x, what is x missing, what is the disadvantage of x, what could improve x?)\n- South (where can x lead to, what does x contribute to, and so...)\n- West (what is similar to x, what are other ways to say/do x?)\n\n\n"
-      },
-      "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom",
+        "inline": false,
+        "replaceExisting": false,
+        "blankLineAfterMatchMode": "auto"
       },
       "newLineCapture": {
         "enabled": false,
@@ -72,28 +35,27 @@
       },
       "prepend": false,
       "task": false,
-      "openFile": true,
+      "openFile": false,
       "fileOpening": {
-        "location": "split",
+        "location": "tab",
         "direction": "vertical",
-        "focus": true,
-        "mode": "default"
-      },
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
+        "mode": "default",
         "focus": true
       },
-      "openFileInMode": "default"
+      "templater": {
+        "afterCapture": "none"
+      },
+      "captureToCanvasNodeId": ""
     },
     {
-      "id": "bc28a0b8-a129-4455-ac92-22a6facfffd4",
-      "name": "Capture - Add new story idea",
+      "id": "330476f9-d8ef-497f-acf4-230082deafaf",
+      "name": "Inbox Detailed - Capture",
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "05 Areas/Ideas/Stories/Story Ideas.md",
+      "captureTo": "{{GLOBAL_VAR:FolderInbox}}/{{DATE:YYYY-[W]WW}}",
       "captureToActiveFile": false,
+      "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
         "enabled": true,
         "createWithTemplate": false,
@@ -101,7 +63,1142 @@
       },
       "format": {
         "enabled": true,
-        "format": "---\n\n## {{VALUE:title}}\nAdded: {{date}}\n\n{{VALUE:idea}}"
+        "format": "- **{{DATE:LTS}}** | {{VALUE:⌂,⊞,⭘, ◇,↗|text:Home,Work,Quiet,Anywhere,Out|default:⌂}} {{VALUE:💡,->,@, #|text:Insight, NextAction,LifeLog,Milestone|default:}} {{VALUE:⏫,🔼,🔽,⏬|text:VHighEnergy,HighEnergy.LowEnergy,VLowEnergy}} ~{{VALUE:estimate}} | {{FIELD:project|custom}}: **:** {{VALUE:log}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## {{DATE:dddd, MMM Do}}",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom",
+        "inline": false,
+        "replaceExisting": false,
+        "blankLineAfterMatchMode": "auto"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "templater": {
+        "afterCapture": "none"
+      },
+      "captureToCanvasNodeId": ""
+    },
+    {
+      "id": "bc5b29b9-632d-4f1b-9e79-501fa8a29da3",
+      "name": "Log",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "7e58a0ae-42ab-4d11-b9eb-4faa0dd60b0d",
+          "name": "Pipeline - Capture",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "{{GLOBAL_VAR:FolderSystem}}/Pipeline",
+          "captureToActiveFile": false,
+          "captureToCanvasNodeId": "",
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- **{{VALUE:arrival_date}}:**  {{VALUE:pipeline}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "### {{VDATE:date,MMMM YYYY|t}}",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top",
+            "inline": false,
+            "replaceExisting": false,
+            "blankLineAfterMatchMode": "auto"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        },
+        {
+          "id": "5736ccf6-09c7-4fa3-a673-dc10a0676a41",
+          "name": "Project Log - Capture",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "{{GLOBAL_VAR:FolderProjects}}/{{FIELD:project}}/Log",
+          "captureToActiveFile": false,
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- **{{date}} -- {{DATE:LTS}}** {{VALUE:🟡,🟠,🟢,🔴,🔗,💡|text:Doing,Trying,Done,Blocked,Connection,Insight}} {{VALUE:log}}\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## {{date:YYYY-[Q]Q}}",
+            "insertAtEnd": false,
+            "considerSubsections": true,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "top",
+            "inline": false,
+            "replaceExisting": false,
+            "blankLineAfterMatchMode": "auto"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          },
+          "captureToCanvasNodeId": ""
+        }
+      ]
+    },
+    {
+      "id": "48146c1a-d8a3-4749-9cf6-0cebe9478649",
+      "name": "View insights",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "View insights",
+        "id": "d25d0f2b-9675-4075-92a4-e222beceb1d7",
+        "commands": []
+      }
+    },
+    {
+      "id": "a9e7611d-1135-46ff-81cc-95507b94b94c",
+      "name": "View dashboard",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "View dashboard",
+        "id": "f8b0d2db-1e42-4a94-8127-0569caefa88c",
+        "commands": []
+      }
+    },
+    {
+      "id": "bad9abb9-383b-4161-8669-8b690710b1b4",
+      "name": "Review",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "e7d3e488-31cd-43db-9505-3cf66409ec6c",
+          "name": "Weekly Review - Template",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Review Weekly.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{GLOBAL_VAR:FolderReviews}}/01 Weekly/{{DATE:GGGG-[W]WW}}"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "becce986-d71b-4872-8205-cd824d3b805f",
+          "name": "Monthly Review - Template",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Review Monthly.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{GLOBAL_VAR:FolderReviews}}/02 Monthly/{{DATE:YYYY-MM}}"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "81072268-9f6f-4a4f-8aff-7cd3280b459b",
+          "name": "Quarterly Review - Template",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Review Quarterly.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{GLOBAL_VAR:FolderReviews}}/03 Quarterly/{{DATE:YYYY-[Q]Q}}"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "76a83f81-f031-4d53-aa6c-9b2704b0d988",
+          "name": "Yearly Review - Template",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Review Yearly.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{GLOBAL_VAR:FolderReviews}}/04 Yearly/{{DATE:y}}"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "18ab2b9a-c7a6-4363-99fa-24a58db83a52",
+      "name": "Planning",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "fdd6f48e-029d-44cf-b1c2-44befa863e1e",
+          "name": "Weekly Planning - Template",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Planning Weekly.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{GLOBAL_VAR:FolderReviews}}/01 Weekly/{{DATE:GGGG-[W]WW+1}} Planning"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "aeb51b12-0966-454b-a575-814c9c64a125",
+          "name": "Monthly Planning - Template",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Planning Monthly.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{GLOBAL_VAR:FolderReviews}}/Monthly/{{DATE:YYYY-MM}} Planning"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "c4064695-ec23-41c9-96fa-067c2651b767",
+          "name": "Quarterly Planning - Template",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Planning Quarterly.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{GLOBAL_VAR:FolderReviews}}/03 Quarterly/{{DATE:YYYY-[Q]Q}} Planning"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "4f251e54-6911-44a2-8d3c-f64e5a080b0d",
+          "name": "Yearly Planning - Template",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Planning Yearly.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{GLOBAL_VAR:FolderReviews}}/04 Yearly/{{DATE:y}} Planning"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "d4454766-e198-4ef3-a532-99f356a69fcb",
+      "name": "Note",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "d1504c04-57f0-45dd-8a12-eae35cdfe9bc",
+          "name": "Self Main Note",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "{{GLOBAL_VAR:FolderSelf}}/{{VALUE:zid}} {{VALUE:title}}",
+          "captureToActiveFile": false,
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "---\nzid: {{VALUE:zid}}\ntitle: {{VALUE:title}}\ntopics: {{VALUE:topics}}\ncreated: {{DATE: dddd, YYYY-MM-DD, hh:mm a}}\nmodified: {{DATE: dddd, YYYY-MM-DD, hh:mm a}}\n---\n\n# {{VALUE:zid}}: {{VALUE:title}}\n\n{{VALUE:elaboration}}\n\n---\n\n## Connections\n*Links to other notes.*\n\n### East (y --> x)\n- Where does this idea come from?\n- What is the origin?\n- What group/category/theory does this belong to?\n- What causes this to happen?\n\n### West (x --> y)\n- What does this idea lead to?\n- What does this idea contribute to?\n\n### North (x || y)\n- What is similar to this?\n- What are other ways to say/do this?\n\n### South (x && !y)\n- What opposes this idea?\n- What is this idea missing?\n- What is the disadvantage of this idea?\n- What could improve this?\n\n---\n\n## References\n*Citations, literature notes, etc.*\n\n### When did this happen?\n\n- {{VALUE:references}}\n"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        },
+        {
+          "id": "ce916f13-b78a-422b-a389-88969913a9fa",
+          "name": "Template - Permanent Note",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Permanent Note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{GLOBAL_VAR:FolderPermanentNotes}}/{{VALUE:zid}} {{VALUE:title}}"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "ace0409c-89a0-43c0-bab5-fab998a9442a",
+          "name": "Template - Interest Note",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Interest Note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{GLOBAL_VAR:FolderSystem}}/Interests/{{VALUE:title}}"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "a8540e1a-eaf5-49b5-a888-f82f6d35381d",
+          "name": "Template - Literature Note",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Literature Note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{GLOBAL_VAR:FolderReferences}}//{{VALUE:reference}}"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "794f1d48-5b03-4cbf-897b-092a0ae30d30",
+          "name": "Reference Note",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": false,
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": false,
+            "format": ""
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        },
+        {
+          "id": "a2a43c7e-f5d2-49b9-aa8f-a5cbdbad0f06",
+          "name": "Someday - Capture",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "{{GLOBAL_VAR:FolderSystem}}/Someday",
+          "captureToActiveFile": false,
+          "captureToCanvasNodeId": "",
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "### {{VALUE:project}}\n*Added: {{date}} -- Updated: {{date}}*\n\n{{VALUE:description}}\n\n→ **Builds on:** {{VALUE:prerequisite}} --> **Builds towards:** {{VALUE:main_quest}}\n→ **Waiting for:** {{VALUE:waiting_for|label: e.g., drawing skill + game art exists}}\n→ **Activate when:** {{VALUE:activate_when|label: e.g., first game characters are done and I have bandwidth}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## Deferred",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top",
+            "inline": false,
+            "replaceExisting": false,
+            "blankLineAfterMatchMode": "auto"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        },
+        {
+          "id": "3be03a00-a4e7-4fa8-9d0e-ed72e621c0e9",
+          "name": "Waiting-for - Capture",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "{{GLOBAL_VAR:FolderSystem}}/Waiting-for",
+          "captureToActiveFile": false,
+          "captureToCanvasNodeId": "",
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- **{{date}}** ↻ **{{VDATE:date,YYYY-MM-DD|tomorrow}}** #{{VALUE:project_or_context}}:  *{{VALUE:who}}* -- {{VALUE:what}}\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## Active",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top",
+            "inline": false,
+            "replaceExisting": false,
+            "blankLineAfterMatchMode": "auto"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "7269f301-2c25-4e2e-ac17-71043d83ae48",
+      "name": "Time",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "4ea5b763-a87f-438c-8a75-7ff889c91ad4",
+          "name": "LastWeek - Capture",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "captureToCanvasNodeId": "",
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "{{MACRO:LastWeek}}"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top",
+            "inline": false,
+            "replaceExisting": false,
+            "blankLineAfterMatchMode": "auto"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        },
+        {
+          "id": "cd18f9ef-1459-4720-b556-24bafeb05453",
+          "name": "LastMonth - Capture",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "captureToCanvasNodeId": "",
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "{{MACRO:LastMonth}}"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top",
+            "inline": false,
+            "replaceExisting": false,
+            "blankLineAfterMatchMode": "auto"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        },
+        {
+          "id": "a1caf6d8-ede4-40e4-bb66-c6a432674808",
+          "name": "LastQuarter - Capture",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "captureToCanvasNodeId": "",
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "{{MACRO:LastQuarter}}"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top",
+            "inline": false,
+            "replaceExisting": false,
+            "blankLineAfterMatchMode": "auto"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        },
+        {
+          "id": "61675891-63ed-47df-a103-fcf640fa284f",
+          "name": "LastYear - Capture",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "captureToCanvasNodeId": "",
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "{{MACRO:LastYear}}"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top",
+            "inline": false,
+            "replaceExisting": false,
+            "blankLineAfterMatchMode": "auto"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        }
+      ]
+    },
+    {
+      "id": "90f44630-a84e-4bf5-9ca3-68677514582a",
+      "name": "Macros",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "d850f04d-09cb-4ec5-8b96-5aae5c2785a5",
+          "name": "LastWeek",
+          "type": "Macro",
+          "command": false,
+          "runOnStartup": false,
+          "macro": {
+            "name": "LastWeek",
+            "id": "aa1b4d26-e5f8-42e9-b52a-21f7c70355b1",
+            "commands": [
+              {
+                "name": "last-week",
+                "type": "UserScript",
+                "id": "e0d5581e-803d-4c2a-8e34-ff6c7fea4deb",
+                "path": "Templates/Scripts/last-week.js",
+                "settings": {}
+              }
+            ]
+          }
+        },
+        {
+          "id": "a4ebfd6a-ee03-4d9d-8687-8c6410a93d2c",
+          "name": "LastMonth",
+          "type": "Macro",
+          "command": false,
+          "runOnStartup": false,
+          "macro": {
+            "name": "LastMonth",
+            "id": "66981511-b255-4304-acdb-a50fe16f8f93",
+            "commands": [
+              {
+                "name": "last-month",
+                "type": "UserScript",
+                "id": "8121c3fd-1da8-49f7-a53e-1b65d5fd5395",
+                "path": "Templates/Scripts/last-month.js",
+                "settings": {}
+              }
+            ]
+          }
+        },
+        {
+          "id": "4a88a207-0a03-497a-815d-42200c8dc2dc",
+          "name": "LastQuarter",
+          "type": "Macro",
+          "command": false,
+          "runOnStartup": false,
+          "macro": {
+            "name": "LastQuarter",
+            "id": "48b80f71-43b8-4372-932b-e319f3702505",
+            "commands": [
+              {
+                "name": "last-quarter",
+                "type": "UserScript",
+                "id": "de08039d-2528-449c-84fe-3d49637a1cf6",
+                "path": "Templates/Scripts/last-quarter.js",
+                "settings": {}
+              }
+            ]
+          }
+        },
+        {
+          "id": "13336d0d-3d94-42f4-ac29-1d24a266f966",
+          "name": "LastYear",
+          "type": "Macro",
+          "command": false,
+          "runOnStartup": false,
+          "macro": {
+            "name": "LastYear",
+            "id": "f86fe43c-30c2-4eba-9020-2826e21d02c3",
+            "commands": [
+              {
+                "name": "last-year",
+                "type": "UserScript",
+                "id": "f2e54959-fb8d-4b22-a5b3-a75e2791c8db",
+                "path": "Templates/Scripts/last-year.js",
+                "settings": {}
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "df6ba67e-2bcf-48a7-b451-1838bb44099e",
+      "name": "Story",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "46fad3b6-9818-4c7a-a0c8-a4c257f3d0cb",
+          "name": "Story Inbox - Capture",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "captureToCanvasNodeId": "",
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- **{{date}}:** {{VALUE:note}}\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## {{VALUE:general,theme, style, world, devices, structure, plot}}",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom",
+            "inline": false,
+            "replaceExisting": false,
+            "blankLineAfterMatchMode": "auto"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        },
+        {
+          "id": "a921c2ca-0a8b-4885-8ac1-3a40748a164d",
+          "name": "Story Note - Template",
+          "type": "Template",
+          "command": true,
+          "templatePath": "Templates/Story Note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:id}} {{VALUE:note}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": true,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        }
+      ]
+    },
+    {
+      "id": "6c878522-509c-4398-b5bf-1f1115f6a720",
+      "name": "Create new project",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Create new project",
+        "id": "bc79f98a-9d46-4586-865e-f573a7035bf9",
+        "commands": [
+          {
+            "name": "About - Template",
+            "type": "NestedChoice",
+            "id": "95562fa1-b9e6-4634-ae72-8185fc1d75e8",
+            "choice": {
+              "id": "3d91ef32-114e-45f2-a637-2776343a2632",
+              "name": "About - Template",
+              "type": "Template",
+              "command": false,
+              "templatePath": "Templates/Project About.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{GLOBAL_VAR:FolderProjects}}/{{VALUE:title}}/About"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Log - Template",
+            "type": "NestedChoice",
+            "id": "35533c61-42ea-46f6-ab11-a34d5d6af782",
+            "choice": {
+              "id": "ded32b97-ca3e-450b-8d59-a2e8fe0d494b",
+              "name": "Log - Template",
+              "type": "Template",
+              "command": false,
+              "templatePath": "Templates/Project Log.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{GLOBAL_VAR:FolderProjects}}/{{VALUE:title}}/Log"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ddb68b3a-dbde-403d-a4da-9b6910d72961",
+      "name": "Symbols Commonly Used - Capture",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "captureToCanvasNodeId": "",
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{VALUE:⌂,⊞,⭘, ◇,↗,🟡,🟠,🟢,🔴,🔗,💡}}"
       },
       "insertAfter": {
         "enabled": false,
@@ -109,76 +1206,113 @@
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
+        "createIfNotFoundLocation": "top",
+        "inline": false,
+        "replaceExisting": false,
+        "blankLineAfterMatchMode": "auto"
       },
-      "prepend": true,
-      "task": false,
-      "openFileInNewTab": {
+      "newLineCapture": {
         "enabled": false,
-        "direction": "vertical",
-        "focus": true
+        "direction": "below"
       },
+      "prepend": false,
+      "task": false,
       "openFile": false,
-      "openFileInMode": "default",
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
-        "focus": true,
-        "mode": "default"
+        "mode": "default",
+        "focus": true
+      },
+      "templater": {
+        "afterCapture": "none"
       }
     },
     {
-      "id": "1e585d6c-b871-49ae-a25e-bfa4e64644a1",
-      "name": "Capture - Add new daily log",
+      "id": "3b74f057-0f42-420b-914b-efdfd15247a2",
+      "name": "Arrows - Capture",
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "00 Logs/00 Daily Logs/{{DATE}}",
-      "captureToActiveFile": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "captureToCanvasNodeId": "",
+      "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
-        "enabled": true,
+        "enabled": false,
         "createWithTemplate": false,
         "template": ""
       },
       "format": {
         "enabled": true,
-        "format": "- **{{DATE:HH:mm}}:** {{VALUE}} "
+        "format": "{{VALUE:↑,⇈,↓, ⇊, →, ⇉, ←,⇇}}"
       },
       "insertAfter": {
-        "enabled": true,
-        "after": "## Log",
-        "insertAtEnd": true,
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
         "considerSubsections": false,
-        "createIfNotFound": true,
-        "createIfNotFoundLocation": "top"
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top",
+        "inline": false,
+        "replaceExisting": false,
+        "blankLineAfterMatchMode": "auto"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
       },
       "prepend": false,
       "task": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
       "openFile": false,
-      "openFileInMode": "default",
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
-        "focus": true,
-        "mode": "default"
+        "mode": "default",
+        "focus": true
+      },
+      "templater": {
+        "afterCapture": "none"
       }
     }
   ],
   "inputPrompt": "single-line",
+  "persistInputPromptDrafts": true,
+  "useSelectionAsCaptureValue": true,
   "devMode": false,
-  "templateFolderPath": "",
-  "announceUpdates": true,
-  "version": "2.4.0",
-  "globalVariables": {},
+  "templateFolderPath": "Templates",
+  "announceUpdates": "all",
+  "version": "2.12.0",
+  "globalVariables": {
+    "CurrentProject": "03 Projects/Yellow/Notes",
+    "FolderPermanentNotes": "03 Permanent Notes",
+    "FolderInbox": "00 Inbox",
+    "FolderSystem": "01 System",
+    "FolderProjects": "04 Projects",
+    "FolderReferences": "05 References",
+    "FolderReviews": "07 Reviews",
+    "FolderResources": "06 Resources",
+    "FolderSelf": "02 Self"
+  },
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
   "showCaptureNotification": true,
+  "showInputCancellationNotification": false,
+  "enableTemplatePropertyTypes": false,
+  "dateAliases": {
+    "t": "today",
+    "tm": "tomorrow",
+    "yd": "yesterday",
+    "nw": "next week",
+    "nm": "next month",
+    "nq": "next quarter",
+    "ny": "next year",
+    "lw": "last week",
+    "lm": "last month",
+    "lq": "last quarter",
+    "ly": "last year"
+  },
   "ai": {
     "defaultModel": "Ask me",
     "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
@@ -230,7 +1364,8 @@
             "name": "gpt-4o-mini",
             "maxTokens": 128000
           }
-        ]
+        ],
+        "modelSource": "auto"
       }
     ]
   },
@@ -242,6 +1377,17 @@
     "setVersionAfterUpdateModalRelease": true,
     "addDefaultAIProviders": true,
     "removeMacroIndirection": true,
-    "migrateFileOpeningSettings": true
-  }
+    "migrateFileOpeningSettings": true,
+    "backfillFileOpeningDefaults": true,
+    "setProviderModelDiscoveryMode": true,
+    "migrateProviderApiKeysToSecretStorage": true
+  },
+  "macros": [
+    {
+      "name": "Macro - Suggest Review",
+      "id": "bb206603-073d-48a5-8efc-3a2114149207",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ]
 }

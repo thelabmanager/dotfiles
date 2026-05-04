@@ -1,11 +1,12 @@
 {
   "autoUpdate": true,
-  "changelogPath": "Changelog.md",
-  "datetimeFormat": "YYYY-MM-DD[T]HHmm",
-  "maxRecentFiles": 25,
+  "changelogPath": "00 Inbox/Changelog.md",
+  "datetimeFormat": "YYYY-MM-DD LT",
+  "maxRecentFiles": 100,
   "excludedFolders": [
-    "Scripts/",
-    "Templates/",
-    "New Templates/"
-  ]
+    "Templates",
+    "00 Inbox"
+  ],
+  "useWikiLinks": true,
+  "changelogHeading": ""
 }
