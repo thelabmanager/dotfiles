@@ -7,12 +7,13 @@ fi
 
 # User specific environment
 if ! [[ "$PATH" =~ "$HOME/.local/bin:$HOME/bin:" ]]; then
-    PATH="$HOME/.local/bin:$HOME/bin:$PATH"
+    PATH="$HOME/.local/bin:$HOME/bin:/opt/bin:$PATH"
 fi
 export PATH
 
 # Other system environment stuff
 export GOPATH=$HOME/go
+export RUST_BACKTRACE=full
 
 # Editors
 export SYSTEMD_EDITOR=vim
@@ -67,9 +68,13 @@ alias cd..='cd ..'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias backdir='cd "$OLDPWD"'
-alias code='cd ~/source'
-alias last='cd ~/source/turbo-dev/conductor'
-alias lastgame='cd ~/source/turbo-dev/option-one'
+alias code='cd ~/dev'
+alias cddev='cd ~/dev'
+alias last='cd ~/dev/remote/turbo_tetris'
+alias tetris='cd ~/dev/remote/turbo_tetris'
+alias hellogoodbye='cd ~/dev/remote/hello_goodbye'
+alias lastgame='cd ~/dev/turbo-dev/option-one'
+alias htdocs='cd ~/../../opt/lampp/htdocs'
 
 # List
 alias la='ls -Alh'
@@ -91,3 +96,8 @@ alias gadd='git add'
 alias gch='git checkout'
 alias gchb='git checkout -b'
 . "$HOME/.cargo/env"
+
+# Colors
+# \[ opens a non-printing region, and \] closes it
+# Basically, anything for formatting lives inside \[ \]
+PS1="\[\e[38;5;210m\]\u@\H\[\e[38;5;80m\]:\w\[\e[0m\] $ "

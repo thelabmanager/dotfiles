@@ -22,6 +22,7 @@ endif
 
 " Editing
 set shiftwidth=4
+set tabstop=4
 set softtabstop=2
 set expandtab " no tabs, just spaces
 set autoindent
@@ -31,6 +32,7 @@ set cursorcolumn
 set cursorline
 set listchars=tab:\|\
 set list
+set clipboard^=unnamedplus
 
 " Completion
 set wildmenu
@@ -80,8 +82,12 @@ call plug#end()
 
 " Plugin Settings
 
-let b:ale_fixers = ['prettier', 'eslint']
+let b:ale_fixers = {
+  \ 'rust': ['prettier', 'eslint'],
+  \ }
 let b:ale_fix_on_save = 1
+let g:ale_sign_style_warning = '⚠️'
+let g:ale_sign_warning = '⚠️'
 let g:ale_completion_enabled = 1
 set omnifunc=ale#completion#OmniFunc
 
